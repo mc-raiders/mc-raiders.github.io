@@ -1,0 +1,27 @@
+Dungeon,prefix,npc_id,Boss_Name,loot,Spawn_Rate,Gold
+Blackrock Depths,npc,9025,Lord Roccor,1,1,1.219411
+Blackrock Depths,npc,9016,Bael’Gar,1,1,2.702742
+Blackrock Depths,npc,9319,Houndmaster Grebmar,1,1,3.48032
+Blackrock Depths,npc,9018,High Interrogator Gerstahn,1,1,0.712171
+Blackrock Depths,npc,9027,Gorosh the Dervish,1,0.167,1.871963
+Blackrock Depths,npc,9028,Grizzle,1,0.167,6.159234
+Blackrock Depths,npc,9029,Eviscerator,1,0.167,1.185952
+Blackrock Depths,npc,9030,Ok’thor the Breaker,1,0.167,1.084052
+Blackrock Depths,npc,9031,Anub’shiah,1,0.167,1.349224
+Blackrock Depths,npc,9032,Hedrum the Creeper,1,0.167,1.602284
+Blackrock Depths,npc,9024,Pyromancer Loregrain,1,1,2.573204
+Blackrock Depths,npc,9033,General Angerforge,1,1,2.80027
+Blackrock Depths,npc,8983,Golem Lord Argelmach,1,1,1.664284
+Blackrock Depths,npc,9543,Ribbly Screwspigot,0,1,0.569492
+Blackrock Depths,npc,9537,Hurley Blackbreath,1,1,1.909275
+Blackrock Depths,npc,9499,Plugger Spazzring,1,1,1.037644
+Blackrock Depths,npc,9502,Phalanx,1,1,2.03877
+Blackrock Depths,npc,9017,Lord Incendius,1,1,0.860431
+Blackrock Depths,npc,9056,Fineous Darkvire,1,1,1.202917
+Blackrock Depths,npc,9041,Warder Stilgiss,1,0.167,1.680586
+Blackrock Depths,npc,9042,Verek,1,0.167,0.293552
+Blackrock Depths,npc,9156,Ambassador Flamelash,1,1,1.6609926
+Blackrock Depths,object,169243,Chest of the Seven,1,1,5.443436
+Blackrock Depths,npc,9938,Magmus,1,1,1.825559
+Blackrock Depths,npc,8929,Princess Moira Bronzebeard,1,1,1.251206
+Blackrock Depths,npc,9019,Emperor Dagran Thaurissan,1,1,4.636617

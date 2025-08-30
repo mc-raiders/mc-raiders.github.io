@@ -1,0 +1,93 @@
+DB_ID,EQ_TYPE,ICON_NAME,TYPE,NAME,SOURCE,CLASS_MASK,SET,COMMENTS
+11923,21,inv_hammer_07,Mace,The Hammer of Grace,Dungeon,7,,BRD: Chest of the Seven 23%
+11927,7,inv_pants_04,Plate,Legplates of the Eternal Guardian,Dungeon,132,,BRD: Chest of the Seven 24%
+11815,12,inv_jewelry_talisman_01,,Hand of Justice,Dungeon,228,,"BRD: Emperor Dagran Thaurissan 13%; 2% chance on melee hit to gain extra attack, 2s cd"
+11928,23,inv_mace_13,,Thaurissan’s Royal Scepter,Dungeon,7,,BRD: Emperor Dagran Thaurissan 18%
+11841,7,inv_pants_09,Cloth,Senior Designer’s Pantaloons,Dungeon,7,,BRD: Fineous Darkvire 27%
+11821,7,inv_pants_09,Leather,Warstrife Leggings,Dungeon,1,,BRD: General Angerforge 12%
+11810,12,inv_jewelry_amulet_01,,Force of Will,Dungeon,133,,BRD: General Angerforge 7%; 1% chance to reduce melee dmg tkaen by 25 for 10 sec
+11669,11,inv_jewelry_ring_05,,Naglering,Dungeon,133,,BRD: Golem Lord Argelmach 11%; 3 thorns
+11822,8,inv_boots_05,Cloth,Omnicast Boots,Dungeon,31,,BRD: Golem Lord Argelmach 36%
+11819,12,inv_jewelry_talisman_06,,Second Wind,Dungeon,7,,BRD: Golem Lord Argelmach 9%; USE: 300 mana 15min cd
+11726,5,inv_chest_chain_15,Mail,Savage Gladiator Chain,Dungeon,164,1,BRD: Gorosh the Dervish (spawn 1/6) 12%
+11662,6,inv_belt_29,Cloth,Ban’thok Sash,Dungeon,26,,BRD: Ok’thor the Breaker (spawn 1/6) 35%
+12553,8,inv_boots_02,Leather,Swiftwalker Boots,Dungeon,97,,BRD: Princess Moira Bronzebeard 23%
+12554,10,inv_gauntlets_32,Cloth,Hands of the Exalted Herald,Dungeon,7,,BRD: Princess Moira Bronzebeard 24%
+12548,11,inv_jewelry_ring_05,,Magni’s Will,Dungeon,133,,BRD: quest reward 100%
+12543,11,inv_jewelry_ring_05,,Songstone of Ironforge,Dungeon,26,,BRD: quest reward 100%
+11782,3,inv_shoulder_02,Cloth,Boreal Mantle,Dungeon,8,,BRD: Warder Stilgiss 25%
+18327,6,inv_belt_17,Cloth,Whipvine Cord,Dungeon,7,,DME: Alzzin the Wildshpaer 19%
+18323,26,inv_weapon_bow_03,Bow,Satyr’s Bow,Dungeon,224,,DME: Zevrim Thornhoof 19%
+18505,6,inv_belt_02,Leather,Mugger’s Belt,Dungeon,192,,DMN: Captain Kromcrush 22%
+18507,8,inv_boots_05,Cloth,Boots of the Full Moon,Dungeon,7,,DMN: Captain Kromcrush 23%
+18490,1,inv_helmet_41,Leather,Insightful Hood,Dungeon,5,,DMN: Cho’Rush the Observer 42%
+18483,26,inv_wand_05,,Mana Channeling Wand,Dungeon,2,,DMN: Cho’Rush the Observer 43%
+18497,9,inv_bracer_13,Cloth,Sublime Wristgaurds,Dungeon,31,,"DMN: Guard Mol’dar 6%, Guard Slip’kik 6%"
+18527,10,inv_gauntlets_10,Mail,Harmonious Gauntlets,Dungeon,4,,DMN: King Gordok 24%
+18523,23,inv_misc_orb_01,,Brightly Glowing Stone,Dungeon,7,,DMN: King Gordok 24%
+18525,9,inv_bracer_12,Leather,Bracers of Prosperity,Dungeon,5,,DMN: King Gordok 24%
+18495,16,inv_misc_cape_21,,Redoubt Cloak,Dungeon,133,,DMN: Tribute 11%
+18534,17,inv_staff_32,Staff,Rod of the Ogre Magic,Dungeon,26,,DMN: Tribute 14%
+18531,17,inv_hammer_22,Mace,Unyielding Maul,Dungeon,1,,DMN: Tribute 16%
+18500,11,inv_jewelry_ring_13,,Tarnished Elven Ring,Dungeon,97,,DMN: Tribute 29%
+18386,7,inv_pants_06,Cloth,Padre’s Trousers,Dungeon,7,,DMW: Illyanna Ravenoak 22%
+18371,12,inv_battery_02,,Mindtap Talisman,Dungeon,7,,DMW: Magister Kalendris 9%
+18375,9,inv_bracer_07,Leather,Bracers of the Eclipse,Dungeon,97,,DMW: Prince Tortheldrin 17%
+18469,12,inv_jewelry_talisman_10,,Royal Seal of Eldre’Thalas,Dungeon,2,,DMW: quest reward 100%
+18421,1,inv_helmet_19,Mail,Backwood Helm,Dungeon,36,,DMW: quest reward 100%
+18473,12,inv_jewelry_talisman_10,,Royal Seal of Eldre’Thalas,Dungeon,32,,DMW: quest reward 100%
+18470,12,inv_jewelry_talisman_10,,Royal Seal of Eldre’Thalas,Dungeon,1,,DMW: quest reward 100%
+18393,6,inv_belt_34,Mail,Warpwood Binding,Dungeon,36,,DMW: Tendris Warpwood 24%
+13208,9,inv_bracer_07,Leather,Bleak Howler Armguards,Dungeon,5,,LBRS: Gizrul the Slavener 24%
+13211,9,inv_bracer_07,Mail,Slashclaw Bracers,Dungeon,164,,LBRS: Halycon 27%
+13170,7,inv_pants_13,Cloth,Skyshroud Leggings,Dungeon,31,,LBRS: Highlord Omokk 13%
+13167,17,inv_hammer_04,Mace,Fist of Omokk,Dungeon,5,,LBRS: Highlord Omokk 13%
+13253,10,inv_gauntlets_14,Cloth,Hands of Power,Dungeon,31,,LBRS: Quartermaster Zigris 14%
+13252,6,inv_belt_10,Leather,Cloudrunner Girdle,Dungeon,229,,LBRS: Quartermaster Zigris 16%
+13959,6,inv_belt_13,Plate,Omokk’s Girth Restrainer,Dungeon,132,,LBRS: quest reward 100%
+12651,26,inv_weapon_crossbow_04,Crossbow,Blackcrow,Dungeon,224,,LBRS: Shadow Hunter Vosh’gajin 7%
+13178,11,inv_jewelry_ring_22,,Rosewine Circle,Dungeon,7,,LBRS: Urok Doomhowl 15%
+13258,10,inv_gauntlets_22,Leather,Slaghide Gauntlets,Dungeon,1,,LBRS: Urok Doomhowl 25%
+17713,11,inv_jewelry_ring_17,,Blackstone Ring,Dungeon,229,,Maraudon: Princess Theradras 25%
+14637,5,inv_chest_leather_03,Leather,Cadaverous Armor,Dungeon,229,,"Scholomance: 1.4% from Malicia, Krastinov, Lady Barov, Ravenian, Polkelt; 8% Alexei Barov"
+14620,6,inv_belt_12,Plate,Deathbone Girdle,Dungeon,132,124,"Scholomance: 4% from Malicia, Krastinov, Lady Barov, Ravenian, Polkelt"
+14621,8,inv_boots_01,Plate,Deathbone Sabatons,Dungeon,132,124,"Scholomance: 4% from Malicia, Krastinov, Lady Barov, Ravenian, Polkelt"
+14616,8,inv_boots_01,Mail,Bloodmail Boots,Dungeon,36,,"Scholomance: 4% from Malicia, Krastinov, Lady Barov, Ravenian, Polkelt"
+14641,8,inv_boots_05,Leather,Cadaverous Walkers,Dungeon,229,,"Scholomance: 4% from Malicia, Krastinov, Lady Barov, Ravenian, Polkelt"
+14624,5,inv_chest_chain_15,Plate,Deathbone Chestplate,Dungeon,132,124,"Scholomance: 7% from Alexei Barov; 1.5% from Krastinov, Polkelt, Lady Barov"
+13964,13,inv_weapon_shortblade_25,Dagger,Witchblade,Dungeon,31,,Scholomance: Darkmaster Gandling: 13%
+13938,26,inv_misc_bone_taurenskull_01,Wand,Bonecreepr Stylus,Dungeon,26,,Scholomance: Darkmaster Gandling: 13%
+13956,6,inv_belt_12,Cloth,Clutch of Andros,Dungeon,26,,Scholomance: Kirtonos 18%
+13969,9,inv_bracer_16,Mail,Loomguard Armbraces,Dungeon,4,,Scholomance: Kirtonos 19%
+13957,10,inv_gauntlets_09,Leather,Gargoyle Slashers,Dungeon,229,,Scholomance: Kirtonos 19%
+13967,8,inv_boots_plate_04,Mail,Windreaver Greaves,Dungeon,32,,Scholomance: Kirtonos 19%
+22331,11,inv_jewelry_ring_33,,Band of the Steadfast Hero,Dungeon,133,,Scholomance: Kormok 12%
+15806,13,inv_sword_34,Sword,Mirah’s Song,Dungeon,228,,Scholomance: quest reward 100%
+14502,6,inv_belt_10,Leather,Frostbite Girdle,Dungeon,97,,Scholomance: Ras Frostwhisper 16%
+14539,1,inv_helmet_14,Leather,Bone Ring Helm,Dungeon,37,,Scholomance: Rattlegore 12%
+18691,2,inv_jewelry_necklace_06,,Dark Advisor’s Pendant,Dungeon,18,,Scholomance: Vectus 7%
+10796,23,inv_misc_orb_03,,Drakestone,Dungeon,31,,"ST: 9% Hazzas, Weaver, Dreamscythe, Morphaz"
+13386,16,inv_misc_cape_19,,Archivist Cape,Dungeon,31,,Stratholme: Archivist Galford 21%
+13349,21,inv_mace_07,Mace,Scepter of the Unholy,Dungeon,18,,Stratholme: Baron Rivendare 14%
+13340,16,inv_misc_cape_20,,Cape of the Black Baron,Dungeon,229,,Stratholme: Baron Rivendare 15%
+13346,20,inv_chest_cloth_08,Cloth,Robes of the Exalted,Dungeon,7,,Stratholme: Baron Rivendare 15%
+18720,3,inv_shoulder_23,Cloth,Shroud of the Nathrezim,Dungeon,31,,"Stratholme: Grand Crusader Dathrohan 17%, Balnazzar 8%"
+12103,2,inv_jewelry_talisman_08,,Star of Mystaria,Dungeon,25,,"Stratholme: Grand Crusader Dathrohan 19%, Balnazzar 12%"
+18735,8,inv_boots_03,Cloth,Maleki’s Footwraps,Dungeon,18,,Stratholme: Maleki the Pallid 18%
+18723,2,inv_jewelry_necklace_01,,Animated Chain Necklace,Dungeon,7,,Stratholme: Ramstein the Gorger 12%
+13396,26,inv_misc_bone_elfskull_01,Wand,Skul’s Ghastly Touch,Dungeon,18,,Stratholme: Skul 30%
+13954,8,inv_boots_08,Leather,Verdant Footpads,Dungeon,5,,Stratholme: Stonespine (1/5 spawn) 30%
+13404,1,inv_misc_bandana_01,Leather,Mask of the Unforgiven,Dungeon,229,,Stratholme: The Unforgiven 21%
+12602,14,inv_shield_20,,Draconian Deflector,Dungeon,132,,UBRS: General Drakkisath 22%
+13098,11,inv_jewelry_ring_18,,Painweaver Band,Dungeon,229,,UBRS: General Drakkisath 23%
+13141,2,inv_jewelry_necklace_09,,Tooth of Gnarr,Dungeon,31,,UBRS: General Drakkisath 27%
+12952,1,inv_helmet_23,Plate,Gyth’s Skull,Dungeon,132,,UBRS: Gyth 20%
+12930,12,inv_misc_root_02,,Briarwood Reed,Dungeon,31,,UBRS: Jed Runewatcher (1/6 spawn) 30%
+12927,3,inv_shoulder_10,Leather,Truestrike Shoulders,Dungeon,229,,UBRS: Pyroguard Emberseer 12%
+13965,12,inv_misc_armorkit_09,,Blackhand’s Breadth,Dungeon,229,,UBRS: quest reward 100%
+13968,12,inv_jewelry_talisman_08,,Eye of the Beast,Dungeon,26,,UBRS: quest reward 100%
+13966,12,inv_jewelry_talisman_09,,Mark of Tyranny,Dungeon,1,,UBRS: quest reward 100%
+12939,22,inv_sword_40,Sword,Dal’Rend’s Tribal Guardian,Dungeon,228,41,UBRS: Warchief Rend Blackhand 12%
+12936,9,inv_bracer_17,Plate,Battleborn Armbraces,Dungeon,132,,UBRS: Warchief Rend Blackhand 17%
+18103,11,inv_jewelry_ring_16,,Band of Rumination,Dungeon,31,,UBRS: Warchief Rend Blackhand 20%
+12940,21,inv_sword_43,Sword,Dal’Rend’s Sacred Charge,Dungeon,228,41,UBRS: Warchief Rend Blackhand 8%
