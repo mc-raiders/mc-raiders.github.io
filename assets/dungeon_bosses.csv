@@ -3,6 +3,7 @@ Blackrock Depths,9025,51,1,Lord Roccor,1,1
 Blackrock Depths,9016,54,2,Bael’Gar,1,1
 Blackrock Depths,9319,52,3,Houndmaster Grebmar,1,1
 Blackrock Depths,9018,52,4,High Interrogator Gerstahn,1,1
+Blackrock Depths,10096,52,5,High Justice Grimstone,0,1
 Blackrock Depths,9027,56,5,Gorosh the Dervish,1,0.167
 Blackrock Depths,9028,54,5,Grizzle,1,0.167
 Blackrock Depths,9029,54,5,Eviscerator,1,0.167
@@ -25,59 +26,13 @@ Blackrock Depths,169243,57,17,Chest of the Seven,1,1
 Blackrock Depths,9938,57,18,Magmus,1,1
 Blackrock Depths,8929,58,19,Princess Moira Bronzebeard,1,1
 Blackrock Depths,9019,59,19,Emperor Dagran Thaurissan,1,1
-Lower Blackrock Spire,9196,59,1,Highlord Omokk,1,1
-Lower Blackrock Spire,9236,58,2,Shadow Hunter Vosh’gajin,1,1
-Lower Blackrock Spire,9237,59,3,War Master Voone,1,1
-Lower Blackrock Spire,10596,59,4,Mother Smolderweb,1,1
-Lower Blackrock Spire,10584,60,5,Urok Doomhowl,1,0.167
-Lower Blackrock Spire,9736,59,6,Quartermaster Zigris,1,0.167
-Lower Blackrock Spire,10268,60,7,Gizrul the Slavener,1,1
-Lower Blackrock Spire,10220,59,8,Halycon,1,1
-Lower Blackrock Spire,9568,60,9,Overlord Wyrmthalak,1,1
-Upper Blackrock Spire,9816,63,1,Pyroguard Emberseer,1,1
-Upper Blackrock Spire,10429,63,3,Warchief Rend Blackhand,1,1
-Upper Blackrock Spire,10339,62,4,Gyth,1,1
-Upper Blackrock Spire,10430,63,5,The Beast,1,1
-Upper Blackrock Spire,10363,63,6,General Drakkisath,1,1
-Upper Blackrock Spire,10509,59,2,Jed Runewatcher,1,0.167
-Scholomance,10506,60,1,Kirtonos the Herald,1,1
-Scholomance,10503,61,2,Jandice Barov,1,1
-Scholomance,11622,61,3,Rattlegore,1,1
-Scholomance,10433,58,4,Marduk Blackpool,1,1
-Scholomance,10432,60,5,Vectus,1,1
-Scholomance,10508,62,6,Ras Frostwhisper,1,1
-Scholomance,10505,60,7,Instructor Malicia,1,1
-Scholomance,11261,60,8,Doctor Theolen Krastinov,1,1
-Scholomance,10901,60,9,Lorekeeper Polkelt,1,1
-Scholomance,10507,60,10,The Ravenian,1,1
-Scholomance,10504,60,11,Lord Alexei Barov,1,1
-Scholomance,10502,60,12,Lady Illucia Barov,1,1
-Scholomance,1853,61,13,Darkmaster Gandling,1,1
-Scholomance,16118,60,14,Kormok,1,0.167
-Live Stratholme,11058,61,1,Ezra Grimm,0,1
-Live Stratholme,10393,58,2,Skul,1,1
-Live Stratholme,10558,57,3,Hearthsinger Forresten,1,1
-Live Stratholme,10516,57,4,The Unforgiven,1,1
-Live Stratholme,11143,60,5,Postmaster Malown,1,1
-Live Stratholme,10808,58,6,Timmy the Cruel,1,1
-Live Stratholme,11032,60,7,Malor the Zealous,0,1
-Live Stratholme,10997,60,8,Cannon Master Willey,1,1
-Live Stratholme,11120,60,9,Crimson Hammersmith,0,1
-Live Stratholme,10811,60,10,Archivist Galford,1,1
-Live Stratholme,10813,62,11,Balnazzar,1,1
-Undead Stratholme,10435,58,1,Magistrate Barthilas,1,1
-Undead Stratholme,10809,60,2,Stonespine,1,0.167
-Undead Stratholme,10437,60,3,Nerub’enkan,1,1
-Undead Stratholme,11121,62,4,Black Guard Swordsmith,0,1
-Undead Stratholme,10438,61,5,Maleki the Pallid,1,1
-Undead Stratholme,10436,59,6,Baroness Anastari,1,1
-Undead Stratholme,10439,61,7,Ramstein the Gorger,1,1
-Undead Stratholme,10440,62,8,Baron Rivendare,1,1
+Blackrock Depths,181074,60,20,Arena Spoils (Theldren),1,0.167
 Dire Maul East,14354,57,1,Pusillin,0,1
 Dire Maul East,14327,57,2,Lethtendris,1,1
 Dire Maul East,13280,57,3,Hydrospawn,1,1
 Dire Maul East,11490,57,4,Zevrim Thornhoof,1,1
 Dire Maul East,11492,58,5,Alzzin the Wildshaper,1,1
+Dire Maul East,16097,63,6,Isalien,1,0.167
 Dire Maul North,14326,59,1,Guard Mol’dar,1,1
 Dire Maul North,14322,59,2,Stomper Kreeg,0,1
 Dire Maul North,14321,59,3,Guard Fengus,0,1
@@ -93,10 +48,46 @@ Dire Maul West,11467,59,3,Tsu’zee,1,1
 Dire Maul West,11488,60,4,Illyanna Ravenoak,1,1
 Dire Maul West,11496,61,5,Immol’thar,1,1
 Dire Maul West,11486,61,6,Prince Tortheldrin,1,1
+Live Stratholme,11058,61,1,Ezra Grimm,0,1
+Live Stratholme,10393,58,2,Skul,1,1
+Live Stratholme,10558,57,3,Hearthsinger Forresten,1,1
+Live Stratholme,10516,57,4,The Unforgiven,1,1
+Live Stratholme,11143,60,5,Postmaster Malown,1,1
+Live Stratholme,10808,58,6,Timmy the Cruel,1,1
+Live Stratholme,11032,60,7,Malor the Zealous,0,1
+Live Stratholme,10997,60,8,Cannon Master Willey,1,1
+Live Stratholme,11120,60,9,Crimson Hammersmith,0,1
+Live Stratholme,10811,60,10,Archivist Galford,1,1
+Live Stratholme,10813,62,11,Balnazzar,1,1
+Live Stratholme,181083,63,12,Sothos and Jarien’s Heirlooms,1,0.167
+Lower Blackrock Spire,9196,59,1,Highlord Omokk,1,1
+Lower Blackrock Spire,9236,58,2,Shadow Hunter Vosh’gajin,1,1
+Lower Blackrock Spire,9237,59,3,War Master Voone,1,1
+Lower Blackrock Spire,10596,59,4,Mother Smolderweb,1,1
+Lower Blackrock Spire,10584,60,5,Urok Doomhowl,1,0.167
+Lower Blackrock Spire,9736,59,6,Quartermaster Zigris,1,0.167
+Lower Blackrock Spire,10268,60,7,Gizrul the Slavener,1,1
+Lower Blackrock Spire,10220,59,8,Halycon,1,1
+Lower Blackrock Spire,9568,60,9,Overlord Wyrmthalak,1,1
+Lower Blackrock Spire,16080,60,10,Mor Grayhoof,1,0.167
 Maraudon,12203,50,1,Landslide,1,1
 Maraudon,13601,50,2,Tinkerer Gizlock,1,1
 Maraudon,13596,50,3,Rotgrip,1,1
 Maraudon,12201,51,4,Princess Theradras,1,1
+Scholomance,10506,60,1,Kirtonos the Herald,1,1
+Scholomance,10503,61,2,Jandice Barov,1,1
+Scholomance,11622,61,3,Rattlegore,1,1
+Scholomance,10433,58,4,Marduk Blackpool,1,1
+Scholomance,10432,60,5,Vectus,1,1
+Scholomance,10508,62,6,Ras Frostwhisper,1,1
+Scholomance,10505,60,7,Instructor Malicia,1,1
+Scholomance,11261,60,8,Doctor Theolen Krastinov,1,1
+Scholomance,10901,60,9,Lorekeeper Polkelt,1,1
+Scholomance,10507,60,10,The Ravenian,1,1
+Scholomance,10504,60,11,Lord Alexei Barov,1,1
+Scholomance,10502,60,12,Lady Illucia Barov,1,1
+Scholomance,1853,61,13,Darkmaster Gandling,1,1
+Scholomance,16118,60,14,Kormok,1,0.167
 Sunken Temple,8580,50,1,Atal’alarion,1,1
 Sunken Temple,5721,53,2,Dreamscythe,1,1
 Sunken Temple,5720,51,3,Weaver,1,1
@@ -106,8 +97,18 @@ Sunken Temple,5719,52,6,Morphaz,1,1
 Sunken Temple,5722,53,7,Hazzas,1,1
 Sunken Temple,8443,50,8,Avatar of Hakkar,0,1
 Sunken Temple,5709,55,9,Shade of Eranikus,1,1
-Dire Maul East,16097,63,6,Isalien,1,0.167
-Lower Blackrock Spire,16080,60,10,Mor Grayhoof,1,0.167
-Blackrock Depths,181074,60,20,Arena Spoils (Theldren),1,0.167
-Live Stratholme,181083,63,12,Sothos and Jarien’s Heirlooms,1,0.167
+Undead Stratholme,10435,58,1,Magistrate Barthilas,1,1
+Undead Stratholme,10809,60,2,Stonespine,1,0.167
+Undead Stratholme,10437,60,3,Nerub’enkan,1,1
+Undead Stratholme,11121,62,4,Black Guard Swordsmith,0,1
+Undead Stratholme,10438,61,5,Maleki the Pallid,1,1
+Undead Stratholme,10436,59,6,Baroness Anastari,1,1
+Undead Stratholme,10439,61,7,Ramstein the Gorger,1,1
+Undead Stratholme,10440,62,8,Baron Rivendare,1,1
+Upper Blackrock Spire,9816,63,1,Pyroguard Emberseer,1,1
+Upper Blackrock Spire,10509,59,2,Jed Runewatcher,1,0.167
+Upper Blackrock Spire,10429,63,3,Warchief Rend Blackhand,1,1
+Upper Blackrock Spire,10339,62,4,Gyth,1,1
+Upper Blackrock Spire,10430,63,5,The Beast,1,1
+Upper Blackrock Spire,10363,63,6,General Drakkisath,1,1
 Upper Blackrock Spire,16042,63,7,Lord Valthalak,1,0.167
