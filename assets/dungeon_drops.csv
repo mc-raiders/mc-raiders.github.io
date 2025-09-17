@@ -1,708 +1,711 @@
-NPC_ID,DB_ID,NAME,DROP_PCT,VALUE
-1853,16677,Beaststalker's Cap,0.128,2.4868
-11622,14539,Bone Ring Helm,0.125,2.1404
-9056,11839,Chief Architect's Monocle,0.179,1.1191
-1853,16667,Coif of Elements,0.048,2.5778
-10435,18727,Crimson Felt Hat,0.153,1.4487
-11501,18526,Crown of the Ogre King,0.237,1.7924
-10813,13359,Crown of Tyranny,0.14,2.5336
-1853,16693,Devout Crown,0.116,1.6335
-10339,12953,Dragoneye Coif,0.206,2.2374
-10339,22225,Dragonskin Cowl,0.127,1.4937
-1853,16698,Dreadmist Mask,0.116,1.6636
-10429,12587,Eye of Rend,0.203,2.1031
-12201,17715,Eye of Theradras,0.195,1.0225
-14327,18325,Felhide Cap,0.286,1.6137
-11490,18319,Fervent Helm,0.1,2.0989
-9056,22223,Foreman's Head Protector,0.148,1.1291
-169243,11925,Ghostshroud,0.241,1.6484
-9502,11746,Golem Skull Helm,0.09,1.1861
-9938,11746,Golem Skull Helm,0.206,1.1861
-10813,18718,Grand Crusader’s Helm,0.08,1.658
-10339,12952,Gyth's Skull,0.202,1.4861
-11490,18313,Helm of Awareness,0.193,1.3694
-10440,22411,Helm of the Executioner,0.139,1.6476
-12203,17734,Helm of the Mountain,0.226,1.0457
-10997,22407,Helm of the New Moon,0.184,1.8681
-1853,16731,Helm of Valor,0.119,1.621
-5709,10833,Horns of Eranikus,0.314,0.8597
-14324,18490,Insightful Hood,0.423,1.8655
-16042,22302,Ironweave Cowl,0.229,1.7549
-1853,16727,Lightforge Helm,0.063,1.5968
-1853,16686,Magister's Crown,0.128,1.5912
-10516,13404,Mask of the Unforgiven,0.207,1.5895
-9537,11735,Ragefury Eyepatch,0.095,1.6669
-9032,11729,Savage Gladiator Helm,0.105,1.9073
-1853,16707,Shadowcraft Cap,0.111,1.9962
-10363,22267,Spellweaver's Turban,0.208,1.787
-10509,12604,Starfire Tiara,0.328,1.4368
-11143,13390,The Postmaster's Band,0.035,1.6367
-10339,12960,Tribal War Feathers,0.203,1.7752
-1853,16720,Wildheart Cowl,0.114,2.149
-181083,22327,Amulet of the Redeemed,0.252,0.2535
-10436,18728,Anastari Heirloom,0.178,3.2466
-10439,18723,Animated Chain Necklace,0.118,4.1953
-10432,18691,Dark Advisor's Pendant,0.069,3.14
-5709,10829,Dragon's Eye,0.32,1.068
-11487,18397,Elder Magus Pendant,0.194,2.2464
-9816,12929,Emberfury Talisman,0.131,1.9646
-11496,18381,Evil Eye Pendant,0.237,2.1635
-12201,17707,Gemshard Heart,0.196,1.1631
-10220,13212,Halycon's Spiked Collar,0.283,1.067
-10506,13960,Heart of the Fiend,0.187,1.2828
-9019,11933,Imperial Jewel,0.164,1.9646
-10997,22403,Nacreous Shell Necklace,0.204,4.1953
-16042,22340,Pendant of Celerity,0.231,6.5328
-10813,12103,Star of Mystaria,0.12,1.2157
-9237,13177,Talisman of Evasion,0.177,1.6396
-13280,18317,Tempest Talisman,0.19,1.2503
-10363,13141,Tooth of Gnarr,0.269,1.2093
-9042,11755,Verek's Collar,0.134,1.4627
-9568,16679,Beaststalker's Mantle,0.174,2.2822
-11496,18384,Bile-etched Spaulders,0.195,1.6093
-11622,18686,Bone Golem Shoulders,0.118,2.4527
-10429,12588,Bonespike Shoulder,0.023,2.5446
-9041,11782,Boreal Mantle,0.249,1.272
-14326,18493,Bulky Iron Spaulders,0.064,1.4233
-14323,18493,Bulky Iron Spaulders,0.055,1.4233
-10505,18681,Burial Shawl,0.013,1.5215
-11261,18681,Burial Shawl,0.018,1.5215
-10901,18681,Burial Shawl,0.012,1.5215
-10507,18681,Burial Shawl,0.012,1.5215
-10504,18681,Burial Shawl,0.078,1.5215
-10502,18681,Burial Shawl,0.015,1.5215
-14324,18528,Cyclone Spaulders,1.059,2.0465
-179564,18528,Cyclone Spaulders,0.221,2.0465
-9041,22241,Dark Warder's Pauldrons,0.189,1.5739
-11622,14538,Deadwalker Mantle,0.119,1.7062
-10508,14503,Death's Clutch,0.142,1.9652
-9236,13257,Demonic Runed Spaulders,0.078,1.8088
-14326,18494,Denwatcher's Shoulders,0.067,2.1444
-14323,18494,Denwatcher's Shoulders,0.07,2.1444
-10503,16701,Dreadmist Mantle,0.168,1.565
-9028,11722,Dregmetal Spaulders,0.207,1.661
-9025,11632,Earthslag Shoulders,0.279,0.936
-8929,12557,Ebonsteel Spaulders,0.224,1.4368
-11487,18374,Flamescarred Shoulders,0.198,2.1418
-9502,22212,Golem Fitted Pauldrons,0.228,1.7311
-181074,22305,Ironweave Mantle,0.316,1.609
-9018,11624,Kentic Amice,0.267,0.9079
-9056,11842,Lead Surveyor's Mantle,0.253,1.705
-10430,16729,Lightforge Spaulders,0.183,1.4592
-10508,16689,Magister's Mantle,0.188,1.4597
-9025,22234,Mantle of Lost Hope,0.17,0.9713
-10997,22405,Mantle of the Scarlet Crusade,0.166,1.4944
-10505,14633,Necropile Mantle,0.039,1.6367
-11261,14633,Necropile Mantle,0.041,1.6367
-10901,14633,Necropile Mantle,0.037,1.6367
-10507,14633,Necropile Mantle,0.038,1.6367
-10502,14633,Necropile Mantle,0.038,1.6367
-10339,16669,Pauldrons of Elements,0.191,2.1995
-13596,17732,Rotgrip Mantle,0.355,1.0383
-10503,14548,Royal Cap Spaulders,0.111,2.4792
-10997,16708,Shadowcraft Spaulders,0.165,1.8175
-10813,18720,Shroud of the Nathrezim,0.08,1.6706
-9196,13166,Slamshot Shoulders,0.12,1.4204
-10439,13374,Soulstealer Mantle,0.122,1.4315
-10429,16733,Spaulders of Valor,0.188,1.5207
-9029,11685,Splinthide Shoulders,0.317,1.3941
-10506,13955,Stoneform Shoulders,0.183,1.6367
-10440,22412,Thuzadin Mantle,0.153,1.6476
-9816,12927,Truestrike Shoulders,0.123,1.9149
-10516,13405,Wailing Nightbane Pauldrons,0.224,1.3102
-10268,16718,Wildheart Spaulders,0.182,1.9354
-10813,13358,Wyrmtongue Shoulders,0.11,2.1036
-10363,16674,Beaststalker's Tunic,0.115,3.4435
-10505,14611,Bloodmail Hauberk,0.013,3.2509
-11261,14611,Bloodmail Hauberk,0.012,3.2509
-10901,14611,Bloodmail Hauberk,0.011,3.2509
-10507,14611,Bloodmail Hauberk,0.012,3.2509
-10504,14611,Bloodmail Hauberk,0.071,3.2509
-10502,14611,Bloodmail Hauberk,0.013,3.2509
-10363,16730,Breastplate of Valor,0.121,2.2609
-10505,14637,Cadaverous Armor,0.014,2.5048
-11261,14637,Cadaverous Armor,0.016,2.5048
-10901,14637,Cadaverous Armor,0.012,2.5048
-10507,14637,Cadaverous Armor,0.012,2.5048
-10504,14637,Cadaverous Armor,0.08,2.5048
-10502,14637,Cadaverous Armor,0.012,2.5048
-9031,11678,Carapace of Anub'shiah,0.187,1.5596
-11486,18373,Chestplate of Tranquility,0.094,2.8459
-10505,14624,Deathbone Chestplate,0.012,2.0578
-11261,14624,Deathbone Chestplate,0.015,2.0578
-10901,14624,Deathbone Chestplate,0.013,2.0578
-10507,14624,Deathbone Chestplate,0.012,2.0578
-10504,14624,Deathbone Chestplate,0.074,2.0578
-10502,14624,Deathbone Chestplate,0.013,2.0578
-169243,11926,Deathdealer Breastplate,0.212,2.459
-11492,18312,Energized Chestplate,0.188,1.8073
-14325,18503,Kromcrush's Chestplate,0.228,2.2521
-10363,16726,Lightforge Breastplate,0.068,2.227
-9499,12793,Mixologist's Tunic,0.294,1.9846
-14324,18530,Ogre Forged Hauberk,0.766,3.1331
-179564,18530,Ogre Forged Hauberk,0.16,3.1331
-9196,13168,Plate of the Shaman King,0.126,1.9085
-9033,11820,Royal Decorated Armor,0.281,2.6761
-9027,11726,Savage Gladiator Chain,0.123,3.3533
-10363,16721,Shadowcraft Tunic,0.103,3.019
-10393,13394,Skul's Cold Embrace,0.3,1.8176
-10558,13378,Songbird Blouse,0.228,2.1972
-9032,11633,Spiderfang Carapace,0.331,1.4076
-11143,13388,The Postmaster's Tunic,0.174,2.1117
-1853,13944,Tombstone Breastplate,0.132,2.6808
-10440,22409,Tunic of the Crescent Moon,0.159,2.7461
-10363,16666,Vest of Elements,0.052,3.5962
-5710,10806,Vestments of the Atal'ai Prophet,0.271,1.5146
-10363,16706,Wildheart Vest,0.119,2.7841
-8580,10798,Atal'alarion's Tusk Ring,0.37,0.6263
-9030,11662,Ban'thok Sash,0.347,0.7462
-10997,18721,Barrage Girdle,0.193,1.4944
-9736,16680,Beaststalker's Belt,0.016,1.3788
-16080,22325,Belt of the Trickster,0.183,1.2446
-10505,14614,Bloodmail Belt,0.038,1.6427
-11261,14614,Bloodmail Belt,0.038,1.6427
-10901,14614,Bloodmail Belt,0.036,1.6427
-10507,14614,Bloodmail Belt,0.039,1.6427
-10502,14614,Bloodmail Belt,0.038,1.6427
-10363,13142,Brigam Girdle,0.226,1.1642
-10505,14636,Cadaverous Belt,0.037,1.2476
-11261,14636,Cadaverous Belt,0.044,1.2476
-10901,14636,Cadaverous Belt,0.038,1.2476
-10507,14636,Cadaverous Belt,0.039,1.2476
-10502,14636,Cadaverous Belt,0.04,1.2476
-9041,11783,Chillsteel Girdle,0.253,1.2767
-9736,13252,Cloudrunner Girdle,0.16,1.2434
-10506,13956,Clutch of Andros,0.184,1.095
-9736,16673,Cord of Elements,0.018,1.344
-5721,12466,Dawnspire Cord,0.097,0.6865
-5720,12466,Dawnspire Cord,0.091,0.6865
-5719,12466,Dawnspire Cord,0.079,0.6865
-5722,12466,Dawnspire Cord,0.086,0.6865
-10505,14620,Deathbone Girdle,0.039,1.0135
-11261,14620,Deathbone Girdle,0.036,1.0135
-10901,14620,Deathbone Girdle,0.037,1.0135
-10507,14620,Deathbone Girdle,0.037,1.0135
-10502,14620,Deathbone Girdle,0.041,1.0135
-1853,13950,Detention Strap,0.018,1.6447
-9736,16696,Devout Belt,0.018,0.9058
-14324,18529,Elemental Plate Girdle,1.142,0.9963
-179564,18529,Elemental Plate Girdle,0.239,0.9963
-11496,18391,Eyestalk Cord,0.239,1.3076
-10429,18104,Feralsurge Girdle,0.196,1.7285
-10811,13387,Foresight Girdle,0.212,1.5779
-10508,14502,Frostbite Girdle,0.156,1.3051
-9029,11686,Girdle of Beastial Fury,0.199,0.9329
-10808,13403,Grimgore Noose,0.192,0.9401
-16080,22306,Ironweave Belt,0.219,0.9963
-10584,22232,Marksman's Girdle,0.164,1.4933
-14325,18505,Mugger's Belt,0.223,1.3076
-10558,13384,Rainbow Girdle,0.184,0.8988
-9016,11807,Sash of the Burning Heart,0.187,0.9153
-9019,22207,Sash of the Grand Hunt,0.148,1.4233
-9736,16713,Shadowcraft Belt,0.022,1.1196
-9028,11703,Stonewall Girdle,0.325,0.7378
-10437,18740,Thuzadin Sash,0.182,1.0101
-9042,22242,Verek's Leash,0.092,1.1489
-11489,18393,Warpwood Binding,0.24,1.4944
-11492,18327,Whipvine Cord,0.187,0.9376
-9736,16716,Wildheart Belt,0.011,1.162
-10507,16716,Wildheart Belt,0.046,1.162
-10440,16678,Beaststalker's Pants,0.105,3.1694
-10430,12963,Blademaster Leggings,0.206,2.7717
-10505,14612,Bloodmail Legguards,0.037,3.2622
-11261,14612,Bloodmail Legguards,0.036,3.2622
-10901,14612,Bloodmail Legguards,0.039,3.2622
-10507,14612,Bloodmail Legguards,0.035,3.2622
-10502,14612,Bloodmail Legguards,0.039,3.2622
-10505,14638,Cadaverous Leggings,0.04,2.5145
-11261,14638,Cadaverous Leggings,0.043,2.5145
-10901,14638,Cadaverous Leggings,0.037,2.5145
-10507,14638,Cadaverous Leggings,0.04,2.5145
-10504,14638,Cadaverous Leggings,0.01,2.5145
-10502,14638,Cadaverous Leggings,0.04,2.5145
-10437,18739,Chitinous Plate Legguards,0.178,2.0124
-10505,14623,Deathbone Legguards,0.04,2.0503
-11261,14623,Deathbone Legguards,0.035,2.0503
-10901,14623,Deathbone Legguards,0.035,2.0503
-10507,14623,Deathbone Legguards,0.036,2.0503
-10502,14623,Deathbone Legguards,0.036,2.0503
-10440,16694,Devout Skirt,0.104,2.082
-10440,16699,Dreadmist Leggings,0.104,2.1202
-11486,18380,Eldritch Reinforced Legplates,0.232,2.1135
-12201,17711,Elemental Rockridge Leggings,0.194,1.4244
-10503,14545,Ghostloom Leggings,0.12,2.6397
-10505,18682,Ghoul Skin Leggings,0.013,2.5456
-11261,18682,Ghoul Skin Leggings,0.016,2.5456
-10901,18682,Ghoul Skin Leggings,0.012,2.5456
-10507,18682,Ghoul Skin Leggings,0.012,2.5456
-10504,18682,Ghoul Skin Leggings,0.077,2.5456
-10502,18682,Ghoul Skin Leggings,0.014,2.5456
-169243,11929,Haunting Specter Leggings,0.217,1.6581
-16118,22303,Ironweave Pants,0.157,2.2366
-10440,16668,Kilt of Elements,0.046,3.0541
-5710,10807,Kilt of the Atal'ai Prophet,0.276,1.5202
-9016,11802,Lavacrest Leggings,0.352,1.7976
-11501,18524,Leggings of Destruction,0.243,3.5596
-9027,22271,Leggings of Frenzied Magic,0.156,2.2328
-16042,22342,Leggings of Torment,0.222,2.1968
-169243,11927,Legplates of the Eternal Guardian,0.239,1.6456
-10440,16732,Legplates of Valor,0.109,2.1213
-181083,22328,Legplates of Vigilance,0.214,2.2208
-10440,16728,Lightforge Legplates,0.064,2.0354
-8983,11823,Luminary Kilt,0.365,2.3677
-10508,14522,Maelstrom Leggings,0.149,3.1318
-10440,16687,Magister's Leggings,0.109,2.0281
-10505,14632,Necropile Leggings,0.038,2.1746
-11261,14632,Necropile Leggings,0.043,2.1746
-10901,14632,Necropile Leggings,0.038,2.1746
-10507,14632,Necropile Leggings,0.037,2.1746
-10502,14632,Necropile Leggings,0.041,2.1746
-11488,18386,Padre's Trousers,0.222,2.0588
-9030,11728,Savage Gladiator Leggings,0.118,2.5336
-9024,11749,Searingscale Leggings,0.237,2.0141
-9056,11841,Senior Designer's Pantaloons,0.269,1.5032
-10440,16709,Shadowcraft Pants,0.109,2.5542
-11486,18378,Silvermoon Leggings,0.214,3.1384
-10432,14577,Skullsmoke Pants,0.078,2.1585
-9196,13170,Skyshroud Leggings,0.13,1.923
-10430,12965,Spiritshroud Leggings,0.215,2.2344
-11489,18390,Tanglemoss Leggings,0.248,2.6811
-11143,13389,The Postmaster's Trousers,0.14,2.1746
-9196,13169,Tressermane Leggings,0.13,2.3948
-10430,12964,Tristam Legguards,0.263,3.3388
-10429,12935,Warmaster Legguards,0.24,2.3196
-9033,11821,Warstrife Leggings,0.12,2.2384
-10440,16719,Wildheart Kilt,0.103,2.7192
-10268,13206,Wolfshear Leggings,0.258,1.988
-10558,13383,Woollies of the Prancing Minstrel,0.168,2.6864
-10503,18690,Wraithplate Leggings,0.111,2.2026
-13596,17728,Albino Crocscale Boots,0.351,1.2458
-10811,18716,Ash Covered Boots,0.21,1.8655
-10437,16675,Beaststalker's Boots,0.178,2.1421
-10505,14616,Bloodmail Boots,0.035,2.2559
-11261,14616,Bloodmail Boots,0.036,2.2559
-10901,14616,Bloodmail Boots,0.037,2.2559
-10507,14616,Bloodmail Boots,0.039,2.2559
-10502,14616,Bloodmail Boots,0.036,2.2559
-9196,16670,Boots of Elements,0.107,2.1027
-16097,22472,Boots of Ferocity,0.191,2.0193
-14325,18507,Boots of the Full Moon,0.226,1.5692
-1853,13398,Boots of the Shrieker,0.125,2.0028
-10506,16734,Boots of Valor,0.186,1.4536
-10505,14641,Cadaverous Walkers,0.039,1.9074
-11261,14641,Cadaverous Walkers,0.04,1.9074
-10901,14641,Cadaverous Walkers,0.037,1.9074
-10507,14641,Cadaverous Walkers,0.038,1.9074
-10504,14641,Cadaverous Walkers,0.01,1.9074
-10502,14641,Cadaverous Walkers,0.037,1.9074
-9537,18043,Coal Miner Boots,0.235,1.5495
-11622,14537,Corpselight Greaves,0.122,1.7001
-10433,18692,Death Knight Sabatons,0.072,1.4375
-10505,14621,Deathbone Sabatons,0.04,1.5261
-11261,14621,Deathbone Sabatons,0.036,1.5261
-10901,14621,Deathbone Sabatons,0.034,1.5261
-10507,14621,Deathbone Sabatons,0.035,1.5261
-10502,14621,Deathbone Sabatons,0.039,1.5261
-10438,16691,Devout Sandals,0.182,1.4005
-10429,18102,Dragonrider Boots,0.209,1.7158
-10436,16704,Dreadmist Sandals,0.176,1.3639
-9028,22270,Entrenching Boots,0.118,1.1882
-10429,22247,Faith Healer's Boots,0.132,1.7874
-10813,13369,Fire Striders,0.15,1.7526
-9537,22275,Firemoss Boots,0.195,1.5383
-9319,11627,Fleetfoot Greaves,0.368,1.4668
-9018,22240,Greaves of Withering Despair,0.126,1.4972
-11501,18521,Grimy Metal Boots,0.247,1.7606
-8929,12556,High Priestess Boots,0.214,1.4317
-10430,22311,Ironweave Boots,0.154,1.4944
-9237,22231,Kayser's Boots of Precision,0.131,1.6444
-10813,16725,Lightforge Boots,0.1,1.3688
-10558,16682,Magister's Boots,0.139,1.4582
-10438,18735,Maleki's Footwraps,0.177,1.7253
-10997,13381,Master Cannoneer Boots,0.162,1.5433
-11492,18318,Merciful Greaves,0.185,2.2057
-10505,14631,Necropile Boots,0.038,1.6251
-11261,14631,Necropile Boots,0.042,1.6251
-10901,14631,Necropile Boots,0.04,1.6251
-10507,14631,Necropile Boots,0.039,1.6251
-10502,14631,Necropile Boots,0.04,1.6251
-11496,18379,Odious Greaves,0.244,2.3791
-8983,11822,Omnicast Boots,0.36,1.4153
-10220,13210,Pads of the Dread Wolf,0.173,1.8024
-10584,13259,Ribsteel Footguards,0.225,1.6069
-9031,11731,Savage Gladiator Greaves,0.091,1.93
-9031,11675,Shadefiend Boots,0.354,1.4464
-11622,16711,Shadowcraft Boots,0.183,1.7505
-10508,18694,Shadowy Mail Greaves,0.157,2.591
-8929,12553,Swiftwalker Boots,0.231,1.7699
-11143,13391,The Postmaster's Treads,0.151,1.6425
-10808,13402,Timmy's Galoshes,0.2,2.1168
-10809,13954,Verdant Footpads,0.296,2.0386
-13280,18322,Waterspout Boots,0.196,1.6137
-10596,16715,Wildheart Boots,0.156,1.7766
-10506,13967,Windreaver Greaves,0.187,2.3338
-10429,12936,Battleborn Armbraces,0.175,1.164
-10430,12966,Blackmist Armguards,0.209,1.4018
-10268,13208,Bleak Howler Armguards,0.245,1.252
-11501,18525,Bracers of Prosperity,0.239,1.373
-11486,18375,Bracers of the Eclipse,0.173,1.4329
-12201,17714,Bracers of the Stone Princess,0.243,1.0225
-9736,16735,Bracers of Valor,0.022,0.8738
-9237,13179,Brazecore Armguards,0.19,1.4916
-9017,11764,Cinderhide Armsplints,0.137,1.0398
-8580,10800,Darkwater Bracers,0.376,0.7562
-11496,18394,Demon Howl Wristguards,0.193,1.7133
-9736,16703,Dreadmist Bracers,0.022,0.8138
-9017,11767,Emberplate Armguards,0.135,0.8637
-9017,11766,Flameweave Cuffs,0.136,0.8606
-9236,12626,Funeral Cuffs,0.185,0.9191
-14324,18533,Gordok Bracers of Power,0.548,1.0984
-179564,18533,Gordok Bracers of Power,0.115,1.0984
-10220,22313,Ironweave Bracers,0.17,0.9963
-10504,16722,Lightforge Bracers,0.043,0.8105
-10506,13969,Loomguard Armbraces,0.187,1.6019
-9736,16683,Magister's Bindings,0.016,0.8765
-10435,18726,Magistrate's Cuffs,0.145,1.1296
-10505,14629,Necropile Cuffs,0.04,1.0758
-11261,14629,Necropile Cuffs,0.046,1.0758
-10901,14629,Necropile Cuffs,0.037,1.0758
-10507,14629,Necropile Cuffs,0.037,1.0758
-10502,14629,Necropile Cuffs,0.038,1.0758
-9017,11765,Pyremail Wristguards,0.132,1.2525
-9029,11679,Rubicund Armguards,0.331,1.1738
-10505,16710,Shadowcraft Bracers,0.045,1.0446
-10220,13211,Slashclaw Bracers,0.27,1.4474
-14326,18497,Sublime Wristguards,0.056,0.9488
-14323,18497,Sublime Wristguards,0.059,0.9488
-10516,13409,Tearfall Bracers,0.178,0.8119
-10808,13400,Vambraces of the Sadist,0.207,0.9296
-1853,13951,Vigorsteel Vambraces,0.143,1.1005
-9019,22204,Wristguards of Renown,0.149,1.2403
-9237,16676,Beaststalker's Gloves,0.183,1.4268
-5721,12464,Bloodfire Talons,0.083,0.852
-5720,12464,Bloodfire Talons,0.076,0.852
-5719,12464,Bloodfire Talons,0.069,0.852
-5722,12464,Bloodfire Talons,0.083,0.852
-10505,14615,Bloodmail Gauntlets,0.037,1.4916
-11261,14615,Bloodmail Gauntlets,0.036,1.4916
-10901,14615,Bloodmail Gauntlets,0.039,1.4916
-10507,14615,Bloodmail Gauntlets,0.038,1.4916
-10502,14615,Bloodmail Gauntlets,0.041,1.4916
-10508,14525,Boneclenched Gauntlets,0.148,1.0561
-11467,18387,Brightspark Gloves,0.301,0.9488
-10505,14640,Cadaverous Gloves,0.039,1.2668
-11261,14640,Cadaverous Gloves,0.039,1.2668
-10901,14640,Cadaverous Gloves,0.037,1.2668
-10507,14640,Cadaverous Gloves,0.04,1.2668
-10502,14640,Cadaverous Gloves,0.04,1.2668
-10503,14543,Darkshade Gloves,0.022,1.0478
-10435,18722,Death Grips,0.149,1.0688
-10505,14622,Deathbone Gauntlets,0.035,1.0212
-11261,14622,Deathbone Gauntlets,0.038,1.0212
-10901,14622,Deathbone Gauntlets,0.035,1.0212
-10507,14622,Deathbone Gauntlets,0.04,1.0212
-10502,14622,Deathbone Gauntlets,0.038,1.0212
-10811,16692,Devout Gloves,0.18,0.9372
-10440,13344,Dracorian Gauntlets,0.143,1.721
-10901,16705,Dreadmist Wraps,0.077,0.9127
-9502,11745,Fists of Phalanx,0.29,0.7878
-11488,18383,Force Imbued Gauntlets,0.236,1.0179
-10506,13957,Gargoyle Slashers,0.187,1.2427
-10440,22410,Gauntlets of Deftness,0.14,1.7231
-9816,16672,Gauntlets of Elements,0.184,1.4059
-10439,16737,Gauntlets of Valor,0.174,0.9794
-10596,13244,Gilded Gauntlets,0.267,1.4482
-11492,18309,Gloves of Restoration,0.187,1.1296
-5710,10808,Gloves of the Atal'ai Prophet,0.296,0.7629
-16042,22343,Handguards of Savagery,0.227,1.6476
-9736,13253,Hands of Power,0.142,0.9983
-8929,12554,Hands of the Exalted Herald,0.235,0.9474
-11501,18527,Harmonious Gauntlets,0.24,1.7988
-16097,22304,Ironweave Gloves,0.204,1.0689
-9019,16724,Lightforge Gauntlets,0.035,0.9091
-10808,16724,Lightforge Gauntlets,0.126,0.9091
-11261,16684,Magister's Gloves,0.075,0.9093
-9156,11814,Molten Fists,0.375,1.3083
-9030,11665,Ogreseer Fists,0.319,0.8532
-11496,18377,Quickdraw Gloves,0.257,1.3076
-11492,18326,Razor Gauntlets,0.187,0.9036
-9568,13162,Reiver Claws,0.145,1.0558
-12203,17736,Rockgrip Gauntlets,0.238,0.9646
-9029,11730,Savage Gladiator Grips,0.129,1.2762
-9236,16712,Shadowcraft Gloves,0.176,1.1714
-10436,18730,Shadowy Laced Handwraps,0.182,1.025
-10508,18693,Shivery Handwraps,0.153,1.1425
-9032,11634,Silkweb Gloves,0.312,0.7063
-10393,13395,Skul's Fingerbone Claws,0.294,1.1403
-10584,13258,Slaghide Gauntlets,0.248,1.3343
-9236,13255,Trueaim Gauntlets,0.345,1.4366
-10516,16717,Wildheart Gloves,0.121,1.2244
-16118,22326,Amalgam's Band,0.123,1.5282
-10439,13373,Band of Flesh,0.118,1.4846
-181083,22334,Band of Mending,0.189,1.3782
-10429,18103,Band of Rumination,0.202,1.5252
-11501,18522,Band of the Ogre King,0.235,3.6253
-16118,22331,Band of the Steadfast Hero,0.123,3.6253
-12201,17713,Blackstone Ring,0.245,1.4641
-9027,22257,Bloodclot Band,0.152,3.6127
-9030,11824,Cyclopean Band,0.184,1.3657
-10505,18684,Dimly Opalescent Ring,0.013,3.6141
-11261,18684,Dimly Opalescent Ring,0.016,3.6141
-10901,18684,Dimly Opalescent Ring,0.012,3.6141
-10507,18684,Dimly Opalescent Ring,0.015,3.6141
-10504,18684,Dimly Opalescent Ring,0.079,3.6141
-10502,18684,Dimly Opalescent Ring,0.014,3.6141
-1853,22433,Don Mauricio's Band of Domination,0.123,1.5282
-5721,10795,Drakeclaw Band,0.092,0.5542
-5720,10795,Drakeclaw Band,0.099,0.5542
-5719,10795,Drakeclaw Band,0.072,0.5542
-5722,10795,Drakeclaw Band,0.094,0.5542
-11486,18395,Emerald Flame Ring,0.24,3.6645
-9019,11934,Emperor's Seal,0.179,1.9921
-9816,12926,Flaming Band,0.269,1.4907
-9568,13143,Mark of the Dragon Lord,0.017,2.1372
-8983,11669,Naglering,0.109,1.7157
-10363,13098,Painweaver Band,0.229,1.5282
-11492,18314,Ring of Demonic Guile,0.191,1.21
-11492,18315,Ring of Demonic Potency,0.189,1.21
-10584,13178,Rosewine Circle,0.148,1.3782
-16042,22339,Rune Band of Wizardry,0.257,1.5282
-10440,13345,Seal of Rivendare,0.133,1.5457
-14324,18500,Tarnished Elven Ring,1.369,3.134
-179564,18500,Tarnished Elven Ring,0.286,3.134
-11143,13392,The Postmaster's Seal,0.233,1.2211
-10509,12930,Briarwood Reed,0.303,1
-9156,11832,Burst of Knowledge,0.096,1
-10997,13382,Cannonball Runner,0.184,1.085
-14324,18537,Counterattack Lodestone,0.544,6.6135
-179564,18537,Counterattack Lodestone,0.114,6.6135
-10363,22268,Draconic Infused Emblem,0.067,6.629
-9033,11810,Force of Will,0.074,1
-9019,11815,Hand of Justice,0.135,1
-9568,13164,Heart of the Scale,0.094,1.0539
-9568,22321,Heart of Wyrmthalak,0.127,1.0539
-11487,18371,Mindtap Talisman,0.086,2.0737
-10558,13379,Piccolo of the Flaming Fire,0.196,1.0734
-10439,13515,Ramstein's Lightning Bolts,0.123,0.96
-8983,11819,Second Wind,0.09,1
-10596,13213,Smolderweb's Eye,0.14,0.9633
-11496,18370,Vigilance Charm,0.087,2.1612
-169243,11922,Blood-etched Blade,0.204,4.3491
-9502,11744,Bloodfist,0.266,3.9242
-10438,18737,Bone Slicing Hatchet,0.186,5.2427
-10508,14487,Bonechill Hammer,0.157,5.3222
-10440,13368,Bonescraper,0.068,5.5438
-14324,18484,Cho'Rush's Blade,0.435,5.3822
-5709,10828,Dire Nail,0.167,4.0427
-10429,12590,Felstriker,0.015,7.5624
-11492,18310,Fiendish Machete,0.191,4.7406
-5721,10797,Firebreather,0.097,3.5069
-5720,10797,Firebreather,0.091,3.5069
-5719,10797,Firebreather,0.07,3.5069
-5722,10797,Firebreather,0.095,3.5069
-9027,22266,Flarethorn,0.131,4.3878
-10506,14024,Frightalon,0.185,5.2422
-10813,13360,Gift of the Elven Magic,0.12,5.6517
-10505,18683,Hammer of the Vesper,0.014,5.11
-11261,18683,Hammer of the Vesper,0.015,5.11
-10901,18683,Hammer of the Vesper,0.011,5.11
-10507,18683,Hammer of the Vesper,0.013,5.11
-10504,18683,Hammer of the Vesper,0.082,5.11
-10502,18683,Hammer of the Vesper,0.013,5.11
-14326,18498,Hedgecutter,0.062,4.7443
-14323,18498,Hedgecutter,0.073,4.7443
-9032,11635,Hookfang Shanker,0.199,3.5451
-13601,17719,Inventor's Focal Sword,0.331,3.2106
-9237,12582,Keris of Zul'Serak,0.144,5.1199
-181074,22317,Lefty’s Brass Knuckle,0.193,5.2093
-10440,13361,Skullforge Reaver,0.068,5.673
-10808,13401,The Cruel Hand of Timmy,0.196,5.144
-16080,22322,The Jaw Breaker,0.211,5.3054
-11486,18376,Timeworn Mace,0.18,5.2306
-10596,13183,Venomspitter,0.035,5.1771
-1853,13964,Witchblade,0.128,5.3612
-14324,18499,Barrier Shield,0.726,3.4589
-179564,18499,Barrier Shield,0.152,3.4589
-10439,13375,Crest of Retribution,0.12,3.0656
-5709,10835,Crest of Supremacy,0.289,2.4645
-16042,22336,Draconian Aegis of the Legion,0.241,3.515
-10363,12602,Draconian Deflector,0.22,3.5212
-13601,17718,Gizlock's Hypertech Buckler,0.328,2.263
-10437,13529,Husk of Nerub'enkan,0.185,3.2303
-10508,18696,Intricately Runed Shield,0.155,3.3476
-14324,18485,Observer's Shield,0.423,3.4569
-11622,14528,Rattlecage Buckler,0.122,3.4181
-10268,13205,Rhombeard Protector,0.249,3.5031
-9025,11631,Stoneshell Guard,0.277,1.9893
-10811,13386,Archivist Cape,0.214,1.5722
-9018,11626,Blackveil Cape,0.129,0.9698
-10430,12967,Bloodmoon Cloak,0.252,1.6884
-10440,13340,Cape of the Black Baron,0.147,1.6498
-9156,11812,Cape of the Fire Salamander,0.388,1.3979
-11496,18389,Cloak of the Cosmos,0.194,1.683
-11486,18382,Fluctuating Cloak,0.236,1.5971
-10430,12968,Frostweaver Cape,0.198,1.6948
-9031,11677,Graverot Cape,0.321,1.1655
-14326,18496,Heliotrope Cloak,0.064,1.4233
-14323,18496,Heliotrope Cloak,0.064,1.4233
-5721,12465,Nightfall Drape,0.098,1.0261
-5720,12465,Nightfall Drape,0.088,1.0261
-5719,12465,Nightfall Drape,0.077,1.0261
-5722,12465,Nightfall Drape,0.079,1.0261
-10438,18734,Pale Moon Cloak,0.182,1.7194
-10503,18689,Phantasmal Cloak,0.097,1.646
-14324,18495,Redoubt Cloak,0.531,1.677
-179564,18495,Redoubt Cloak,0.111,1.677
-10435,13376,Royal Tribunal Cloak,0.146,1.3738
-11492,18328,Shadewood Cloak,0.189,1.4116
-10363,22269,Shadow Prowler's Cloak,0.18,1.6476
-181074,22330,Shroud of Arcane Mastery,0.257,1.5223
-16042,22337,Shroud of Domination,0.265,1.6476
-9319,11623,Spritecaster Cape,0.196,0.9999
-10809,13397,Stoneskin Gargoyle Cape,0.31,1.5201
-9019,11930,The Emperor's New Cape,0.177,1.4588
-9816,12905,Wildfire Cape,0.259,1.6359
-9033,11816,Angerforge's Battle Axe,0.268,4.8882
-11501,18520,Barbarous Blade,0.237,7.3101
-10503,14541,Barovian Family Sword,0.105,6.8426
-10363,12592,Blackblade of Shahram,0.013,9.5241
-10429,12583,Blackhand Doomsaw,0.118,7.4346
-9568,13148,Chillpike,0.027,6.2629
-10813,13348,Demonshear,0.15,7.277
-5721,12463,Drakefang Butcher,0.086,4.2446
-5720,12463,Drakefang Butcher,0.099,4.2446
-5719,12463,Drakefang Butcher,0.082,4.2446
-5722,12463,Drakefang Butcher,0.089,4.2446
-9019,11931,Dreadforge Retaliator,0.196,5.8103
-9196,13167,Fist of Omokk,0.135,5.941
-9156,11809,Flame Wrath,0.103,5.1287
-9016,11803,Force of Magma,0.335,5.0177
-11622,14531,Frightskull Shaft,0.123,5.9891
-13596,17730,Gatorbite Axe,0.241,4.2951
-10506,13983,Gravestone War Axe,0.141,6.6754
-9019,11932,Guiding Stave of Wisdom,0.195,5.8322
-16118,22333,Hammer of Divine Might,0.324,6.5383
-10813,18717,Hammer of the Grand Crusader,0.09,6.8818
-1853,13937,Headmaster's Charge,0.018,8.7013
-8580,10799,Headspike,0.18,3.9288
-16097,22314,Huntman’s Harpoon,0.204,6.4398
-169243,11921,Impervious Giant,0.203,5.4167
-9024,11750,Kindling Stave,0.199,4.3234
-9938,22208,Lavastone Hammer,0.204,5.7079
-16042,22335,Lord Valthalak’s Staff of Command,0.263,7.1251
-11143,13393,Malown's Slam,0.151,6.238
-14325,18502,Monstrous Glaive,0.22,7.0127
-10435,18725,Peacemaker,0.15,5.9927
-12201,17766,Princess Theradras' Scepter,0.195,4.4863
-14327,18311,Quel'dorai Channeling Rod,0.093,5.6644
-10997,22406,Redemption,0.081,6.227
-9568,13163,Relentless Scythe,0.147,6.9537
-14324,18534,Rod of the Ogre Magi,0.652,7.1503
-179564,18534,Rod of the Ogre Magi,0.136,7.1503
-10430,12969,Seeping Willow,0.145,7.0884
-10439,13372,Slavedriver's Cane,0.118,6.3769
-5721,12243,Smoldering Claw,0.086,4.598
-5720,12243,Smoldering Claw,0.099,4.598
-5719,12243,Smoldering Claw,0.077,4.598
-5722,12243,Smoldering Claw,0.084,4.598
-10503,22394,Staff of Metanoia,0.091,6.94
-14324,18538,Treant's Bane,0.025,9.6748
-9568,13161,Trindlehaven Staff,0.156,6.5749
-14324,18531,Unyielding Maul,0.742,6.5383
-179564,18531,Unyielding Maul,0.155,6.5383
-13280,18324,Waveslicer,0.098,5.5189
-10363,16690,Devout Robe,0.108,2.2616
-10363,16700,Dreadmist Robe,0.122,2.4071
-9024,11747,Flamestrider Robes,0.242,1.6659
-10508,14340,Freezing Lich Robes,0.145,2.1778
-181083,22301,Ironweave Robe,0.097,2.3314
-10363,16688,Magister's Robes,0.112,2.2445
-14324,18532,Mindsurge Robe,0.73,2.1629
-179564,18532,Mindsurge Robe,0.153,2.1629
-10505,14626,Necropile Robe,0.012,2.0732
-11261,14626,Necropile Robe,0.017,2.0732
-10901,14626,Necropile Robe,0.013,2.0732
-10507,14626,Necropile Robe,0.012,2.0732
-10504,14626,Necropile Robe,0.082,2.0732
-10502,14626,Necropile Robe,0.013,2.0732
-11496,18385,Robe of Everlasting Night,0.21,2.1536
-10440,13346,Robes of the Exalted,0.147,2.3118
-9019,11924,Robes of the Royal Crown,0.203,2.0475
-9041,11784,Arbiter's Blade,0.22,3.3835
-9499,12791,Barman Shanker,0.104,3.9411
-16118,22332,Blade of Necromancy,0.147,5.3683
-11496,18372,Blade of the New Moon,0.097,5.6716
-12201,17710,Charstone Dirk,0.195,3.5483
-10429,12940,Dal'Rend's Sacred Charge,0.078,5.4812
-10433,14576,Ebon Hilt of Marduk,0.067,4.877
-11492,18321,Energetic Rod,0.191,4.932
-12203,17943,Fist of Stone,0.257,3.2156
-9028,11702,Grizzle's Skinner,0.316,3.6752
-16097,22315,Hammer of Revitalization,0.151,4.9816
-9537,18044,Hurley's Tankard,0.262,4.1478
-10508,13952,Iceblade Hacker,0.149,5.6683
-9033,11817,Lord General's Sword,0.103,3.9254
-11486,18396,Mind Carver,0.202,5.7516
-10430,12709,Pip's Skinner,0.138,5.7991
-9016,11805,Rubidium Hammer,0.061,4.0439
-10440,13349,Scepter of the Unholy,0.144,5.8429
-1853,13953,Silent Fang,0.127,5.688
-10516,13408,Soul Breaker,0.183,4.4142
-169243,11923,The Hammer of Grace,0.226,4.3648
-5709,10837,Tooth of Eranikus,0.144,3.8801
-10997,22404,Willey's Back Scratcher,0.095,5.4793
-169243,11920,Wraith Scythe,0.203,4.0732
-10429,12939,Dal'Rend's Tribal Guardian,0.118,6.0363
-11486,18392,Distracting Dagger,0.191,5.671
-10809,13399,Gargoyle Shredder Talons,0.337,4.6312
-11501,18523,Brightly Glowing Stone,0.242,3.481
-12203,17737,Cloud Stone,0.244,1.0163
-5721,10796,Drakestone,0.013,0.8982
-5720,10796,Drakestone,0.014,0.8982
-5719,10796,Drakestone,0.012,0.8982
-5722,10796,Drakestone,0.013,0.8982
-9018,11625,Enthralled Sphere,0.143,1.0452
-9938,11935,Magmus Stone,0.208,1.3162
-181083,22329,Scepter of Interminable Focus,0.248,3.445
-10438,13524,Skull of Burning Shadows,0.179,1.2458
-10508,18695,Spellbound Tome,0.152,3.445
-9019,11928,Thaurissan's Royal Scepter,0.184,2.2045
-16080,22319,Tome of Divine Right,0.21,3.8664
-10811,13385,Tome of Knowledge,0.137,1.3237
-10363,22253,Tome of the Lost,0.22,3.445
-10505,18680,Ancient Bone Bow,0.012,3.7894
-11261,18680,Ancient Bone Bow,0.016,3.7894
-10901,18680,Ancient Bone Bow,0.013,3.7894
-10507,18680,Ancient Bone Bow,0.013,3.7894
-10504,18680,Ancient Bone Bow,0.081,3.7894
-10502,18680,Ancient Bone Bow,0.014,3.7894
-10436,13534,Banshee Finger,0.176,3.7727
-9236,12651,Blackcrow,0.073,3.6055
-1853,13938,Bonecreeper Stylus,0.133,3.9304
-10437,18738,Carapace Spine Crossbow,0.18,3.7593
-9319,11628,Houndmaster's Bow,0.103,2.4433
-9319,11629,Houndmaster's Rifle,0.12,2.4527
-181074,22318,Malgen’s Long Bow,0.234,3.7362
-14324,18483,Mana Channeling Wand,0.427,3.7362
-13601,17717,Megashot Rifle,0.328,2.6425
-9024,11748,Pyric Caduceus,0.284,2.5083
-9236,12653,Riphook,0.073,3.6318
-10440,22408,Ritssyn's Wand of Bad Mojo,0.165,4.2763
-5709,10836,Rod of Corrosion,0.27,2.8989
-11490,18323,Satyr's Bow,0.193,3.2988
-10436,18729,Screeching Bow,0.173,3.8302
-10509,12605,Serpentine Skuller,0.333,2.9106
-10393,13396,Skul's Ghastly Touch,0.301,3.0853
-11486,18388,Stoneshatter,0.103,4.1928
-10997,13380,Willey's Portable Howitzer,0.194,3.8443
-10435,23198,Idol of Brutality,0.036,1.8165
-9025,22397,Idol of Ferocity,0.176,1.3067
-16080,22398,Idol of Rejuvenation,0.173,1.6898
-11261,23201,Libram of Divinity,0.029,1.8997
-10504,23201,Libram of Divinity,0.036,1.8997
-10502,23201,Libram of Divinity,0.01,1.8997
-16097,22401,Libram of Hope,0.207,1.7078
-9938,22400,Libram of Truth,0.123,1.3208
-9938,22395,Totem of Rage,0.08,1.2973
-11261,23200,Totem of Sustaining,0.021,1.8929
-10504,23200,Totem of Sustaining,0.028,1.8929
+"NPC_ID","DB_ID","NAME","DROP_PCT","VALUE"
+1853,16677,"Beaststalker's Cap",0.128,2.4868
+11622,14539,"Bone Ring Helm",0.125,2.1404
+9056,11839,"Chief Architect's Monocle",0.179,1.1191
+1853,16667,"Coif of Elements",0.048,2.5778
+10435,18727,"Crimson Felt Hat",0.153,1.4487
+11501,18526,"Crown of the Ogre King",0.237,1.7924
+10813,13359,"Crown of Tyranny",0.14,2.5336
+1853,16693,"Devout Crown",0.116,1.6335
+10339,12953,"Dragoneye Coif",0.206,2.2374
+10339,22225,"Dragonskin Cowl",0.127,1.4937
+1853,16698,"Dreadmist Mask",0.116,1.6636
+10429,12587,"Eye of Rend",0.203,2.1031
+12201,17715,"Eye of Theradras",0.195,1.0225
+14327,18325,"Felhide Cap",0.286,1.6137
+11490,18319,"Fervent Helm",0.1,2.0989
+9056,22223,"Foreman's Head Protector",0.148,1.1291
+10376,13184,"Fallbrush Handgrips",0.47,1.3638
+10376,13185,"Sunderseer Mantle",0.37,1.6422
+10376,13218,"Fang of the Crystal Spider",0.11,5.3388
+169243,11925,"Ghostshroud",0.241,1.6484
+9502,11746,"Golem Skull Helm",0.09,1.1861
+9938,11746,"Golem Skull Helm",0.206,1.1861
+10813,18718,"Grand Crusader’s Helm",0.08,1.658
+10339,12952,"Gyth's Skull",0.202,1.4861
+11490,18313,"Helm of Awareness",0.193,1.3694
+10440,22411,"Helm of the Executioner",0.139,1.6476
+12203,17734,"Helm of the Mountain",0.226,1.0457
+10997,22407,"Helm of the New Moon",0.184,1.8681
+1853,16731,"Helm of Valor",0.119,1.621
+5709,10833,"Horns of Eranikus",0.314,0.8597
+14324,18490,"Insightful Hood",0.423,1.8655
+16042,22302,"Ironweave Cowl",0.229,1.7549
+1853,16727,"Lightforge Helm",0.063,1.5968
+1853,16686,"Magister's Crown",0.128,1.5912
+10516,13404,"Mask of the Unforgiven",0.207,1.5895
+9537,11735,"Ragefury Eyepatch",0.095,1.6669
+9032,11729,"Savage Gladiator Helm",0.105,1.9073
+1853,16707,"Shadowcraft Cap",0.111,1.9962
+10363,22267,"Spellweaver's Turban",0.208,1.787
+10509,12604,"Starfire Tiara",0.328,1.4368
+11143,13390,"The Postmaster's Band",0.035,1.6367
+10339,12960,"Tribal War Feathers",0.203,1.7752
+1853,16720,"Wildheart Cowl",0.114,2.149
+181083,22327,"Amulet of the Redeemed",0.252,0.2535
+10436,18728,"Anastari Heirloom",0.178,3.2466
+10439,18723,"Animated Chain Necklace",0.118,4.1953
+10432,18691,"Dark Advisor's Pendant",0.069,3.14
+5709,10829,"Dragon's Eye",0.32,1.068
+11487,18397,"Elder Magus Pendant",0.194,2.2464
+9816,12929,"Emberfury Talisman",0.131,1.9646
+11496,18381,"Evil Eye Pendant",0.237,2.1635
+12201,17707,"Gemshard Heart",0.196,1.1631
+10220,13212,"Halycon's Spiked Collar",0.283,1.067
+10506,13960,"Heart of the Fiend",0.187,1.2828
+9019,11933,"Imperial Jewel",0.164,1.9646
+10997,22403,"Nacreous Shell Necklace",0.204,4.1953
+16042,22340,"Pendant of Celerity",0.231,6.5328
+10813,12103,"Star of Mystaria",0.12,1.2157
+9237,13177,"Talisman of Evasion",0.177,1.6396
+13280,18317,"Tempest Talisman",0.19,1.2503
+10363,13141,"Tooth of Gnarr",0.269,1.2093
+9042,11755,"Verek's Collar",0.134,1.4627
+9568,16679,"Beaststalker's Mantle",0.174,2.2822
+11496,18384,"Bile-etched Spaulders",0.195,1.6093
+11622,18686,"Bone Golem Shoulders",0.118,2.4527
+10429,12588,"Bonespike Shoulder",0.023,2.5446
+9041,11782,"Boreal Mantle",0.249,1.272
+14326,18493,"Bulky Iron Spaulders",0.064,1.4233
+14323,18493,"Bulky Iron Spaulders",0.055,1.4233
+10505,18681,"Burial Shawl",0.013,1.5215
+11261,18681,"Burial Shawl",0.018,1.5215
+10901,18681,"Burial Shawl",0.012,1.5215
+10507,18681,"Burial Shawl",0.012,1.5215
+10504,18681,"Burial Shawl",0.078,1.5215
+10502,18681,"Burial Shawl",0.015,1.5215
+14324,18528,"Cyclone Spaulders",1.059,2.0465
+179564,18528,"Cyclone Spaulders",0.221,2.0465
+9041,22241,"Dark Warder's Pauldrons",0.189,1.5739
+11622,14538,"Deadwalker Mantle",0.119,1.7062
+10508,14503,"Death's Clutch",0.142,1.9652
+9236,13257,"Demonic Runed Spaulders",0.078,1.8088
+14326,18494,"Denwatcher's Shoulders",0.067,2.1444
+14323,18494,"Denwatcher's Shoulders",0.07,2.1444
+10503,16701,"Dreadmist Mantle",0.168,1.565
+9028,11722,"Dregmetal Spaulders",0.207,1.661
+9025,11632,"Earthslag Shoulders",0.279,0.936
+8929,12557,"Ebonsteel Spaulders",0.224,1.4368
+11487,18374,"Flamescarred Shoulders",0.198,2.1418
+9502,22212,"Golem Fitted Pauldrons",0.228,1.7311
+181074,22305,"Ironweave Mantle",0.316,1.609
+9018,11624,"Kentic Amice",0.267,0.9079
+9056,11842,"Lead Surveyor's Mantle",0.253,1.705
+10430,16729,"Lightforge Spaulders",0.183,1.4592
+10508,16689,"Magister's Mantle",0.188,1.4597
+9025,22234,"Mantle of Lost Hope",0.17,0.9713
+10997,22405,"Mantle of the Scarlet Crusade",0.166,1.4944
+10505,14633,"Necropile Mantle",0.039,1.6367
+11261,14633,"Necropile Mantle",0.041,1.6367
+10901,14633,"Necropile Mantle",0.037,1.6367
+10507,14633,"Necropile Mantle",0.038,1.6367
+10502,14633,"Necropile Mantle",0.038,1.6367
+10339,16669,"Pauldrons of Elements",0.191,2.1995
+13596,17732,"Rotgrip Mantle",0.355,1.0383
+10503,14548,"Royal Cap Spaulders",0.111,2.4792
+10997,16708,"Shadowcraft Spaulders",0.165,1.8175
+10813,18720,"Shroud of the Nathrezim",0.08,1.6706
+9196,13166,"Slamshot Shoulders",0.12,1.4204
+10439,13374,"Soulstealer Mantle",0.122,1.4315
+10429,16733,"Spaulders of Valor",0.188,1.5207
+9029,11685,"Splinthide Shoulders",0.317,1.3941
+10506,13955,"Stoneform Shoulders",0.183,1.6367
+10440,22412,"Thuzadin Mantle",0.153,1.6476
+9816,12927,"Truestrike Shoulders",0.123,1.9149
+10516,13405,"Wailing Nightbane Pauldrons",0.224,1.3102
+10268,16718,"Wildheart Spaulders",0.182,1.9354
+10813,13358,"Wyrmtongue Shoulders",0.11,2.1036
+10363,16674,"Beaststalker's Tunic",0.115,3.4435
+10505,14611,"Bloodmail Hauberk",0.013,3.2509
+11261,14611,"Bloodmail Hauberk",0.012,3.2509
+10901,14611,"Bloodmail Hauberk",0.011,3.2509
+10507,14611,"Bloodmail Hauberk",0.012,3.2509
+10504,14611,"Bloodmail Hauberk",0.071,3.2509
+10502,14611,"Bloodmail Hauberk",0.013,3.2509
+10363,16730,"Breastplate of Valor",0.121,2.2609
+10505,14637,"Cadaverous Armor",0.014,2.5048
+11261,14637,"Cadaverous Armor",0.016,2.5048
+10901,14637,"Cadaverous Armor",0.012,2.5048
+10507,14637,"Cadaverous Armor",0.012,2.5048
+10504,14637,"Cadaverous Armor",0.08,2.5048
+10502,14637,"Cadaverous Armor",0.012,2.5048
+9031,11678,"Carapace of Anub'shiah",0.187,1.5596
+11486,18373,"Chestplate of Tranquility",0.094,2.8459
+10505,14624,"Deathbone Chestplate",0.012,2.0578
+11261,14624,"Deathbone Chestplate",0.015,2.0578
+10901,14624,"Deathbone Chestplate",0.013,2.0578
+10507,14624,"Deathbone Chestplate",0.012,2.0578
+10504,14624,"Deathbone Chestplate",0.074,2.0578
+10502,14624,"Deathbone Chestplate",0.013,2.0578
+169243,11926,"Deathdealer Breastplate",0.212,2.459
+11492,18312,"Energized Chestplate",0.188,1.8073
+14325,18503,"Kromcrush's Chestplate",0.228,2.2521
+10363,16726,"Lightforge Breastplate",0.068,2.227
+9499,12793,"Mixologist's Tunic",0.294,1.9846
+14324,18530,"Ogre Forged Hauberk",0.766,3.1331
+179564,18530,"Ogre Forged Hauberk",0.16,3.1331
+9196,13168,"Plate of the Shaman King",0.126,1.9085
+9033,11820,"Royal Decorated Armor",0.281,2.6761
+9027,11726,"Savage Gladiator Chain",0.123,3.3533
+10363,16721,"Shadowcraft Tunic",0.103,3.019
+10393,13394,"Skul's Cold Embrace",0.3,1.8176
+10558,13378,"Songbird Blouse",0.228,2.1972
+9032,11633,"Spiderfang Carapace",0.331,1.4076
+11143,13388,"The Postmaster's Tunic",0.174,2.1117
+1853,13944,"Tombstone Breastplate",0.132,2.6808
+10440,22409,"Tunic of the Crescent Moon",0.159,2.7461
+10363,16666,"Vest of Elements",0.052,3.5962
+5710,10806,"Vestments of the Atal'ai Prophet",0.271,1.5146
+10363,16706,"Wildheart Vest",0.119,2.7841
+8580,10798,"Atal'alarion's Tusk Ring",0.37,0.6263
+9030,11662,"Ban'thok Sash",0.347,0.7462
+10997,18721,"Barrage Girdle",0.193,1.4944
+9736,16680,"Beaststalker's Belt",0.016,1.3788
+16080,22325,"Belt of the Trickster",0.183,1.2446
+10505,14614,"Bloodmail Belt",0.038,1.6427
+11261,14614,"Bloodmail Belt",0.038,1.6427
+10901,14614,"Bloodmail Belt",0.036,1.6427
+10507,14614,"Bloodmail Belt",0.039,1.6427
+10502,14614,"Bloodmail Belt",0.038,1.6427
+10363,13142,"Brigam Girdle",0.226,1.1642
+10505,14636,"Cadaverous Belt",0.037,1.2476
+11261,14636,"Cadaverous Belt",0.044,1.2476
+10901,14636,"Cadaverous Belt",0.038,1.2476
+10507,14636,"Cadaverous Belt",0.039,1.2476
+10502,14636,"Cadaverous Belt",0.04,1.2476
+9041,11783,"Chillsteel Girdle",0.253,1.2767
+9736,13252,"Cloudrunner Girdle",0.16,1.2434
+10506,13956,"Clutch of Andros",0.184,1.095
+9736,16673,"Cord of Elements",0.018,1.344
+5721,12466,"Dawnspire Cord",0.097,0.6865
+5720,12466,"Dawnspire Cord",0.091,0.6865
+5719,12466,"Dawnspire Cord",0.079,0.6865
+5722,12466,"Dawnspire Cord",0.086,0.6865
+10505,14620,"Deathbone Girdle",0.039,1.0135
+11261,14620,"Deathbone Girdle",0.036,1.0135
+10901,14620,"Deathbone Girdle",0.037,1.0135
+10507,14620,"Deathbone Girdle",0.037,1.0135
+10502,14620,"Deathbone Girdle",0.041,1.0135
+1853,13950,"Detention Strap",0.018,1.6447
+9736,16696,"Devout Belt",0.018,0.9058
+14324,18529,"Elemental Plate Girdle",1.142,0.9963
+179564,18529,"Elemental Plate Girdle",0.239,0.9963
+11496,18391,"Eyestalk Cord",0.239,1.3076
+10429,18104,"Feralsurge Girdle",0.196,1.7285
+10811,13387,"Foresight Girdle",0.212,1.5779
+10508,14502,"Frostbite Girdle",0.156,1.3051
+9029,11686,"Girdle of Beastial Fury",0.199,0.9329
+10808,13403,"Grimgore Noose",0.192,0.9401
+16080,22306,"Ironweave Belt",0.219,0.9963
+10584,22232,"Marksman's Girdle",0.164,1.4933
+14325,18505,"Mugger's Belt",0.223,1.3076
+10558,13384,"Rainbow Girdle",0.184,0.8988
+9016,11807,"Sash of the Burning Heart",0.187,0.9153
+9019,22207,"Sash of the Grand Hunt",0.148,1.4233
+9736,16713,"Shadowcraft Belt",0.022,1.1196
+9028,11703,"Stonewall Girdle",0.325,0.7378
+10437,18740,"Thuzadin Sash",0.182,1.0101
+9042,22242,"Verek's Leash",0.092,1.1489
+11489,18393,"Warpwood Binding",0.24,1.4944
+11492,18327,"Whipvine Cord",0.187,0.9376
+9736,16716,"Wildheart Belt",0.011,1.162
+10507,16716,"Wildheart Belt",0.046,1.162
+10440,16678,"Beaststalker's Pants",0.105,3.1694
+10430,12963,"Blademaster Leggings",0.206,2.7717
+10505,14612,"Bloodmail Legguards",0.037,3.2622
+11261,14612,"Bloodmail Legguards",0.036,3.2622
+10901,14612,"Bloodmail Legguards",0.039,3.2622
+10507,14612,"Bloodmail Legguards",0.035,3.2622
+10502,14612,"Bloodmail Legguards",0.039,3.2622
+10505,14638,"Cadaverous Leggings",0.04,2.5145
+11261,14638,"Cadaverous Leggings",0.043,2.5145
+10901,14638,"Cadaverous Leggings",0.037,2.5145
+10507,14638,"Cadaverous Leggings",0.04,2.5145
+10504,14638,"Cadaverous Leggings",0.01,2.5145
+10502,14638,"Cadaverous Leggings",0.04,2.5145
+10437,18739,"Chitinous Plate Legguards",0.178,2.0124
+10505,14623,"Deathbone Legguards",0.04,2.0503
+11261,14623,"Deathbone Legguards",0.035,2.0503
+10901,14623,"Deathbone Legguards",0.035,2.0503
+10507,14623,"Deathbone Legguards",0.036,2.0503
+10502,14623,"Deathbone Legguards",0.036,2.0503
+10440,16694,"Devout Skirt",0.104,2.082
+10440,16699,"Dreadmist Leggings",0.104,2.1202
+11486,18380,"Eldritch Reinforced Legplates",0.232,2.1135
+12201,17711,"Elemental Rockridge Leggings",0.194,1.4244
+10503,14545,"Ghostloom Leggings",0.12,2.6397
+10505,18682,"Ghoul Skin Leggings",0.013,2.5456
+11261,18682,"Ghoul Skin Leggings",0.016,2.5456
+10901,18682,"Ghoul Skin Leggings",0.012,2.5456
+10507,18682,"Ghoul Skin Leggings",0.012,2.5456
+10504,18682,"Ghoul Skin Leggings",0.077,2.5456
+10502,18682,"Ghoul Skin Leggings",0.014,2.5456
+169243,11929,"Haunting Specter Leggings",0.217,1.6581
+16118,22303,"Ironweave Pants",0.157,2.2366
+10440,16668,"Kilt of Elements",0.046,3.0541
+5710,10807,"Kilt of the Atal'ai Prophet",0.276,1.5202
+9016,11802,"Lavacrest Leggings",0.352,1.7976
+11501,18524,"Leggings of Destruction",0.243,3.5596
+9027,22271,"Leggings of Frenzied Magic",0.156,2.2328
+16042,22342,"Leggings of Torment",0.222,2.1968
+169243,11927,"Legplates of the Eternal Guardian",0.239,1.6456
+10440,16732,"Legplates of Valor",0.109,2.1213
+181083,22328,"Legplates of Vigilance",0.214,2.2208
+10440,16728,"Lightforge Legplates",0.064,2.0354
+8983,11823,"Luminary Kilt",0.365,2.3677
+10508,14522,"Maelstrom Leggings",0.149,3.1318
+10440,16687,"Magister's Leggings",0.109,2.0281
+10505,14632,"Necropile Leggings",0.038,2.1746
+11261,14632,"Necropile Leggings",0.043,2.1746
+10901,14632,"Necropile Leggings",0.038,2.1746
+10507,14632,"Necropile Leggings",0.037,2.1746
+10502,14632,"Necropile Leggings",0.041,2.1746
+11488,18386,"Padre's Trousers",0.222,2.0588
+9030,11728,"Savage Gladiator Leggings",0.118,2.5336
+9024,11749,"Searingscale Leggings",0.237,2.0141
+9056,11841,"Senior Designer's Pantaloons",0.269,1.5032
+10440,16709,"Shadowcraft Pants",0.109,2.5542
+11486,18378,"Silvermoon Leggings",0.214,3.1384
+10432,14577,"Skullsmoke Pants",0.078,2.1585
+9196,13170,"Skyshroud Leggings",0.13,1.923
+10430,12965,"Spiritshroud Leggings",0.215,2.2344
+11489,18390,"Tanglemoss Leggings",0.248,2.6811
+11143,13389,"The Postmaster's Trousers",0.14,2.1746
+9196,13169,"Tressermane Leggings",0.13,2.3948
+10430,12964,"Tristam Legguards",0.263,3.3388
+10429,12935,"Warmaster Legguards",0.24,2.3196
+9033,11821,"Warstrife Leggings",0.12,2.2384
+10440,16719,"Wildheart Kilt",0.103,2.7192
+10268,13206,"Wolfshear Leggings",0.258,1.988
+10558,13383,"Woollies of the Prancing Minstrel",0.168,2.6864
+10503,18690,"Wraithplate Leggings",0.111,2.2026
+13596,17728,"Albino Crocscale Boots",0.351,1.2458
+10811,18716,"Ash Covered Boots",0.21,1.8655
+10437,16675,"Beaststalker's Boots",0.178,2.1421
+10505,14616,"Bloodmail Boots",0.035,2.2559
+11261,14616,"Bloodmail Boots",0.036,2.2559
+10901,14616,"Bloodmail Boots",0.037,2.2559
+10507,14616,"Bloodmail Boots",0.039,2.2559
+10502,14616,"Bloodmail Boots",0.036,2.2559
+9196,16670,"Boots of Elements",0.107,2.1027
+16097,22472,"Boots of Ferocity",0.191,2.0193
+14325,18507,"Boots of the Full Moon",0.226,1.5692
+1853,13398,"Boots of the Shrieker",0.125,2.0028
+10506,16734,"Boots of Valor",0.186,1.4536
+10505,14641,"Cadaverous Walkers",0.039,1.9074
+11261,14641,"Cadaverous Walkers",0.04,1.9074
+10901,14641,"Cadaverous Walkers",0.037,1.9074
+10507,14641,"Cadaverous Walkers",0.038,1.9074
+10504,14641,"Cadaverous Walkers",0.01,1.9074
+10502,14641,"Cadaverous Walkers",0.037,1.9074
+9537,18043,"Coal Miner Boots",0.235,1.5495
+11622,14537,"Corpselight Greaves",0.122,1.7001
+10433,18692,"Death Knight Sabatons",0.072,1.4375
+10505,14621,"Deathbone Sabatons",0.04,1.5261
+11261,14621,"Deathbone Sabatons",0.036,1.5261
+10901,14621,"Deathbone Sabatons",0.034,1.5261
+10507,14621,"Deathbone Sabatons",0.035,1.5261
+10502,14621,"Deathbone Sabatons",0.039,1.5261
+10438,16691,"Devout Sandals",0.182,1.4005
+10429,18102,"Dragonrider Boots",0.209,1.7158
+10436,16704,"Dreadmist Sandals",0.176,1.3639
+9028,22270,"Entrenching Boots",0.118,1.1882
+10429,22247,"Faith Healer's Boots",0.132,1.7874
+10813,13369,"Fire Striders",0.15,1.7526
+9537,22275,"Firemoss Boots",0.195,1.5383
+9319,11627,"Fleetfoot Greaves",0.368,1.4668
+9018,22240,"Greaves of Withering Despair",0.126,1.4972
+11501,18521,"Grimy Metal Boots",0.247,1.7606
+8929,12556,"High Priestess Boots",0.214,1.4317
+10430,22311,"Ironweave Boots",0.154,1.4944
+9237,22231,"Kayser's Boots of Precision",0.131,1.6444
+10813,16725,"Lightforge Boots",0.1,1.3688
+10558,16682,"Magister's Boots",0.139,1.4582
+10438,18735,"Maleki's Footwraps",0.177,1.7253
+10997,13381,"Master Cannoneer Boots",0.162,1.5433
+11492,18318,"Merciful Greaves",0.185,2.2057
+10505,14631,"Necropile Boots",0.038,1.6251
+11261,14631,"Necropile Boots",0.042,1.6251
+10901,14631,"Necropile Boots",0.04,1.6251
+10507,14631,"Necropile Boots",0.039,1.6251
+10502,14631,"Necropile Boots",0.04,1.6251
+11496,18379,"Odious Greaves",0.244,2.3791
+8983,11822,"Omnicast Boots",0.36,1.4153
+10220,13210,"Pads of the Dread Wolf",0.173,1.8024
+10584,13259,"Ribsteel Footguards",0.225,1.6069
+9031,11731,"Savage Gladiator Greaves",0.091,1.93
+9031,11675,"Shadefiend Boots",0.354,1.4464
+11622,16711,"Shadowcraft Boots",0.183,1.7505
+10508,18694,"Shadowy Mail Greaves",0.157,2.591
+8929,12553,"Swiftwalker Boots",0.231,1.7699
+11143,13391,"The Postmaster's Treads",0.151,1.6425
+10808,13402,"Timmy's Galoshes",0.2,2.1168
+10809,13954,"Verdant Footpads",0.296,2.0386
+13280,18322,"Waterspout Boots",0.196,1.6137
+10596,16715,"Wildheart Boots",0.156,1.7766
+10506,13967,"Windreaver Greaves",0.187,2.3338
+10429,12936,"Battleborn Armbraces",0.175,1.164
+10430,12966,"Blackmist Armguards",0.209,1.4018
+10268,13208,"Bleak Howler Armguards",0.245,1.252
+11501,18525,"Bracers of Prosperity",0.239,1.373
+11486,18375,"Bracers of the Eclipse",0.173,1.4329
+12201,17714,"Bracers of the Stone Princess",0.243,1.0225
+9736,16735,"Bracers of Valor",0.022,0.8738
+9237,13179,"Brazecore Armguards",0.19,1.4916
+9017,11764,"Cinderhide Armsplints",0.137,1.0398
+8580,10800,"Darkwater Bracers",0.376,0.7562
+11496,18394,"Demon Howl Wristguards",0.193,1.7133
+9736,16703,"Dreadmist Bracers",0.022,0.8138
+9017,11767,"Emberplate Armguards",0.135,0.8637
+9017,11766,"Flameweave Cuffs",0.136,0.8606
+9236,12626,"Funeral Cuffs",0.185,0.9191
+14324,18533,"Gordok Bracers of Power",0.548,1.0984
+179564,18533,"Gordok Bracers of Power",0.115,1.0984
+10220,22313,"Ironweave Bracers",0.17,0.9963
+10504,16722,"Lightforge Bracers",0.043,0.8105
+10506,13969,"Loomguard Armbraces",0.187,1.6019
+9736,16683,"Magister's Bindings",0.016,0.8765
+10435,18726,"Magistrate's Cuffs",0.145,1.1296
+10505,14629,"Necropile Cuffs",0.04,1.0758
+11261,14629,"Necropile Cuffs",0.046,1.0758
+10901,14629,"Necropile Cuffs",0.037,1.0758
+10507,14629,"Necropile Cuffs",0.037,1.0758
+10502,14629,"Necropile Cuffs",0.038,1.0758
+9017,11765,"Pyremail Wristguards",0.132,1.2525
+9029,11679,"Rubicund Armguards",0.331,1.1738
+10505,16710,"Shadowcraft Bracers",0.045,1.0446
+10220,13211,"Slashclaw Bracers",0.27,1.4474
+14326,18497,"Sublime Wristguards",0.056,0.9488
+14323,18497,"Sublime Wristguards",0.059,0.9488
+10516,13409,"Tearfall Bracers",0.178,0.8119
+10808,13400,"Vambraces of the Sadist",0.207,0.9296
+1853,13951,"Vigorsteel Vambraces",0.143,1.1005
+9019,22204,"Wristguards of Renown",0.149,1.2403
+9237,16676,"Beaststalker's Gloves",0.183,1.4268
+5721,12464,"Bloodfire Talons",0.083,0.852
+5720,12464,"Bloodfire Talons",0.076,0.852
+5719,12464,"Bloodfire Talons",0.069,0.852
+5722,12464,"Bloodfire Talons",0.083,0.852
+10505,14615,"Bloodmail Gauntlets",0.037,1.4916
+11261,14615,"Bloodmail Gauntlets",0.036,1.4916
+10901,14615,"Bloodmail Gauntlets",0.039,1.4916
+10507,14615,"Bloodmail Gauntlets",0.038,1.4916
+10502,14615,"Bloodmail Gauntlets",0.041,1.4916
+10508,14525,"Boneclenched Gauntlets",0.148,1.0561
+11467,18387,"Brightspark Gloves",0.301,0.9488
+10505,14640,"Cadaverous Gloves",0.039,1.2668
+11261,14640,"Cadaverous Gloves",0.039,1.2668
+10901,14640,"Cadaverous Gloves",0.037,1.2668
+10507,14640,"Cadaverous Gloves",0.04,1.2668
+10502,14640,"Cadaverous Gloves",0.04,1.2668
+10503,14543,"Darkshade Gloves",0.022,1.0478
+10435,18722,"Death Grips",0.149,1.0688
+10505,14622,"Deathbone Gauntlets",0.035,1.0212
+11261,14622,"Deathbone Gauntlets",0.038,1.0212
+10901,14622,"Deathbone Gauntlets",0.035,1.0212
+10507,14622,"Deathbone Gauntlets",0.04,1.0212
+10502,14622,"Deathbone Gauntlets",0.038,1.0212
+10811,16692,"Devout Gloves",0.18,0.9372
+10440,13344,"Dracorian Gauntlets",0.143,1.721
+10901,16705,"Dreadmist Wraps",0.077,0.9127
+9502,11745,"Fists of Phalanx",0.29,0.7878
+11488,18383,"Force Imbued Gauntlets",0.236,1.0179
+10506,13957,"Gargoyle Slashers",0.187,1.2427
+10440,22410,"Gauntlets of Deftness",0.14,1.7231
+9816,16672,"Gauntlets of Elements",0.184,1.4059
+10439,16737,"Gauntlets of Valor",0.174,0.9794
+10596,13244,"Gilded Gauntlets",0.267,1.4482
+11492,18309,"Gloves of Restoration",0.187,1.1296
+5710,10808,"Gloves of the Atal'ai Prophet",0.296,0.7629
+16042,22343,"Handguards of Savagery",0.227,1.6476
+9736,13253,"Hands of Power",0.142,0.9983
+8929,12554,"Hands of the Exalted Herald",0.235,0.9474
+11501,18527,"Harmonious Gauntlets",0.24,1.7988
+16097,22304,"Ironweave Gloves",0.204,1.0689
+9019,16724,"Lightforge Gauntlets",0.035,0.9091
+10808,16724,"Lightforge Gauntlets",0.126,0.9091
+11261,16684,"Magister's Gloves",0.075,0.9093
+9156,11814,"Molten Fists",0.375,1.3083
+9030,11665,"Ogreseer Fists",0.319,0.8532
+11496,18377,"Quickdraw Gloves",0.257,1.3076
+11492,18326,"Razor Gauntlets",0.187,0.9036
+9568,13162,"Reiver Claws",0.145,1.0558
+12203,17736,"Rockgrip Gauntlets",0.238,0.9646
+9029,11730,"Savage Gladiator Grips",0.129,1.2762
+9236,16712,"Shadowcraft Gloves",0.176,1.1714
+10436,18730,"Shadowy Laced Handwraps",0.182,1.025
+10508,18693,"Shivery Handwraps",0.153,1.1425
+9032,11634,"Silkweb Gloves",0.312,0.7063
+10393,13395,"Skul's Fingerbone Claws",0.294,1.1403
+10584,13258,"Slaghide Gauntlets",0.248,1.3343
+9236,13255,"Trueaim Gauntlets",0.345,1.4366
+10516,16717,"Wildheart Gloves",0.121,1.2244
+16118,22326,"Amalgam's Band",0.123,1.5282
+10439,13373,"Band of Flesh",0.118,1.4846
+181083,22334,"Band of Mending",0.189,1.3782
+10429,18103,"Band of Rumination",0.202,1.5252
+11501,18522,"Band of the Ogre King",0.235,3.6253
+16118,22331,"Band of the Steadfast Hero",0.123,3.6253
+12201,17713,"Blackstone Ring",0.245,1.4641
+9027,22257,"Bloodclot Band",0.152,3.6127
+9030,11824,"Cyclopean Band",0.184,1.3657
+10505,18684,"Dimly Opalescent Ring",0.013,3.6141
+11261,18684,"Dimly Opalescent Ring",0.016,3.6141
+10901,18684,"Dimly Opalescent Ring",0.012,3.6141
+10507,18684,"Dimly Opalescent Ring",0.015,3.6141
+10504,18684,"Dimly Opalescent Ring",0.079,3.6141
+10502,18684,"Dimly Opalescent Ring",0.014,3.6141
+1853,22433,"Don Mauricio's Band of Domination",0.123,1.5282
+5721,10795,"Drakeclaw Band",0.092,0.5542
+5720,10795,"Drakeclaw Band",0.099,0.5542
+5719,10795,"Drakeclaw Band",0.072,0.5542
+5722,10795,"Drakeclaw Band",0.094,0.5542
+11486,18395,"Emerald Flame Ring",0.24,3.6645
+9019,11934,"Emperor's Seal",0.179,1.9921
+9816,12926,"Flaming Band",0.269,1.4907
+9568,13143,"Mark of the Dragon Lord",0.017,2.1372
+8983,11669,"Naglering",0.109,1.7157
+10363,13098,"Painweaver Band",0.229,1.5282
+11492,18314,"Ring of Demonic Guile",0.191,1.21
+11492,18315,"Ring of Demonic Potency",0.189,1.21
+10584,13178,"Rosewine Circle",0.148,1.3782
+16042,22339,"Rune Band of Wizardry",0.257,1.5282
+10440,13345,"Seal of Rivendare",0.133,1.5457
+14324,18500,"Tarnished Elven Ring",1.369,3.134
+179564,18500,"Tarnished Elven Ring",0.286,3.134
+11143,13392,"The Postmaster's Seal",0.233,1.2211
+10509,12930,"Briarwood Reed",0.303,1
+9156,11832,"Burst of Knowledge",0.096,1
+10997,13382,"Cannonball Runner",0.184,1.085
+14324,18537,"Counterattack Lodestone",0.544,6.6135
+179564,18537,"Counterattack Lodestone",0.114,6.6135
+10363,22268,"Draconic Infused Emblem",0.067,6.629
+9033,11810,"Force of Will",0.074,1
+9019,11815,"Hand of Justice",0.135,1
+9568,13164,"Heart of the Scale",0.094,1.0539
+9568,22321,"Heart of Wyrmthalak",0.127,1.0539
+11487,18371,"Mindtap Talisman",0.086,2.0737
+10558,13379,"Piccolo of the Flaming Fire",0.196,1.0734
+10439,13515,"Ramstein's Lightning Bolts",0.123,0.96
+8983,11819,"Second Wind",0.09,1
+10596,13213,"Smolderweb's Eye",0.14,0.9633
+11496,18370,"Vigilance Charm",0.087,2.1612
+169243,11922,"Blood-etched Blade",0.204,4.3491
+9502,11744,"Bloodfist",0.266,3.9242
+10438,18737,"Bone Slicing Hatchet",0.186,5.2427
+10508,14487,"Bonechill Hammer",0.157,5.3222
+10440,13368,"Bonescraper",0.068,5.5438
+14324,18484,"Cho'Rush's Blade",0.435,5.3822
+5709,10828,"Dire Nail",0.167,4.0427
+10429,12590,"Felstriker",0.015,7.5624
+11492,18310,"Fiendish Machete",0.191,4.7406
+5721,10797,"Firebreather",0.097,3.5069
+5720,10797,"Firebreather",0.091,3.5069
+5719,10797,"Firebreather",0.07,3.5069
+5722,10797,"Firebreather",0.095,3.5069
+9027,22266,"Flarethorn",0.131,4.3878
+10506,14024,"Frightalon",0.185,5.2422
+10813,13360,"Gift of the Elven Magic",0.12,5.6517
+10505,18683,"Hammer of the Vesper",0.014,5.11
+11261,18683,"Hammer of the Vesper",0.015,5.11
+10901,18683,"Hammer of the Vesper",0.011,5.11
+10507,18683,"Hammer of the Vesper",0.013,5.11
+10504,18683,"Hammer of the Vesper",0.082,5.11
+10502,18683,"Hammer of the Vesper",0.013,5.11
+14326,18498,"Hedgecutter",0.062,4.7443
+14323,18498,"Hedgecutter",0.073,4.7443
+9032,11635,"Hookfang Shanker",0.199,3.5451
+13601,17719,"Inventor's Focal Sword",0.331,3.2106
+9237,12582,"Keris of Zul'Serak",0.144,5.1199
+181074,22317,"Lefty’s Brass Knuckle",0.193,5.2093
+10440,13361,"Skullforge Reaver",0.068,5.673
+10808,13401,"The Cruel Hand of Timmy",0.196,5.144
+16080,22322,"The Jaw Breaker",0.211,5.3054
+11486,18376,"Timeworn Mace",0.18,5.2306
+10596,13183,"Venomspitter",0.035,5.1771
+1853,13964,"Witchblade",0.128,5.3612
+14324,18499,"Barrier Shield",0.726,3.4589
+179564,18499,"Barrier Shield",0.152,3.4589
+10439,13375,"Crest of Retribution",0.12,3.0656
+5709,10835,"Crest of Supremacy",0.289,2.4645
+16042,22336,"Draconian Aegis of the Legion",0.241,3.515
+10363,12602,"Draconian Deflector",0.22,3.5212
+13601,17718,"Gizlock's Hypertech Buckler",0.328,2.263
+10437,13529,"Husk of Nerub'enkan",0.185,3.2303
+10508,18696,"Intricately Runed Shield",0.155,3.3476
+14324,18485,"Observer's Shield",0.423,3.4569
+11622,14528,"Rattlecage Buckler",0.122,3.4181
+10268,13205,"Rhombeard Protector",0.249,3.5031
+9025,11631,"Stoneshell Guard",0.277,1.9893
+10811,13386,"Archivist Cape",0.214,1.5722
+9018,11626,"Blackveil Cape",0.129,0.9698
+10430,12967,"Bloodmoon Cloak",0.252,1.6884
+10440,13340,"Cape of the Black Baron",0.147,1.6498
+9156,11812,"Cape of the Fire Salamander",0.388,1.3979
+11496,18389,"Cloak of the Cosmos",0.194,1.683
+11486,18382,"Fluctuating Cloak",0.236,1.5971
+10430,12968,"Frostweaver Cape",0.198,1.6948
+9031,11677,"Graverot Cape",0.321,1.1655
+14326,18496,"Heliotrope Cloak",0.064,1.4233
+14323,18496,"Heliotrope Cloak",0.064,1.4233
+5721,12465,"Nightfall Drape",0.098,1.0261
+5720,12465,"Nightfall Drape",0.088,1.0261
+5719,12465,"Nightfall Drape",0.077,1.0261
+5722,12465,"Nightfall Drape",0.079,1.0261
+10438,18734,"Pale Moon Cloak",0.182,1.7194
+10503,18689,"Phantasmal Cloak",0.097,1.646
+14324,18495,"Redoubt Cloak",0.531,1.677
+179564,18495,"Redoubt Cloak",0.111,1.677
+10435,13376,"Royal Tribunal Cloak",0.146,1.3738
+11492,18328,"Shadewood Cloak",0.189,1.4116
+10363,22269,"Shadow Prowler's Cloak",0.18,1.6476
+181074,22330,"Shroud of Arcane Mastery",0.257,1.5223
+16042,22337,"Shroud of Domination",0.265,1.6476
+9319,11623,"Spritecaster Cape",0.196,0.9999
+10809,13397,"Stoneskin Gargoyle Cape",0.31,1.5201
+9019,11930,"The Emperor's New Cape",0.177,1.4588
+9816,12905,"Wildfire Cape",0.259,1.6359
+9033,11816,"Angerforge's Battle Axe",0.268,4.8882
+11501,18520,"Barbarous Blade",0.237,7.3101
+10503,14541,"Barovian Family Sword",0.105,6.8426
+10363,12592,"Blackblade of Shahram",0.013,9.5241
+10429,12583,"Blackhand Doomsaw",0.118,7.4346
+9568,13148,"Chillpike",0.027,6.2629
+10813,13348,"Demonshear",0.15,7.277
+5721,12463,"Drakefang Butcher",0.086,4.2446
+5720,12463,"Drakefang Butcher",0.099,4.2446
+5719,12463,"Drakefang Butcher",0.082,4.2446
+5722,12463,"Drakefang Butcher",0.089,4.2446
+9019,11931,"Dreadforge Retaliator",0.196,5.8103
+9196,13167,"Fist of Omokk",0.135,5.941
+9156,11809,"Flame Wrath",0.103,5.1287
+9016,11803,"Force of Magma",0.335,5.0177
+11622,14531,"Frightskull Shaft",0.123,5.9891
+13596,17730,"Gatorbite Axe",0.241,4.2951
+10506,13983,"Gravestone War Axe",0.141,6.6754
+9019,11932,"Guiding Stave of Wisdom",0.195,5.8322
+16118,22333,"Hammer of Divine Might",0.324,6.5383
+10813,18717,"Hammer of the Grand Crusader",0.09,6.8818
+1853,13937,"Headmaster's Charge",0.018,8.7013
+8580,10799,"Headspike",0.18,3.9288
+16097,22314,"Huntman’s Harpoon",0.204,6.4398
+169243,11921,"Impervious Giant",0.203,5.4167
+9024,11750,"Kindling Stave",0.199,4.3234
+9938,22208,"Lavastone Hammer",0.204,5.7079
+16042,22335,"Lord Valthalak’s Staff of Command",0.263,7.1251
+11143,13393,"Malown's Slam",0.151,6.238
+14325,18502,"Monstrous Glaive",0.22,7.0127
+10435,18725,"Peacemaker",0.15,5.9927
+12201,17766,"Princess Theradras' Scepter",0.195,4.4863
+14327,18311,"Quel'dorai Channeling Rod",0.093,5.6644
+10997,22406,"Redemption",0.081,6.227
+9568,13163,"Relentless Scythe",0.147,6.9537
+14324,18534,"Rod of the Ogre Magi",0.652,7.1503
+179564,18534,"Rod of the Ogre Magi",0.136,7.1503
+10430,12969,"Seeping Willow",0.145,7.0884
+10439,13372,"Slavedriver's Cane",0.118,6.3769
+5721,12243,"Smoldering Claw",0.086,4.598
+5720,12243,"Smoldering Claw",0.099,4.598
+5719,12243,"Smoldering Claw",0.077,4.598
+5722,12243,"Smoldering Claw",0.084,4.598
+10503,22394,"Staff of Metanoia",0.091,6.94
+14324,18538,"Treant's Bane",0.025,9.6748
+9568,13161,"Trindlehaven Staff",0.156,6.5749
+14324,18531,"Unyielding Maul",0.742,6.5383
+179564,18531,"Unyielding Maul",0.155,6.5383
+13280,18324,"Waveslicer",0.098,5.5189
+10363,16690,"Devout Robe",0.108,2.2616
+10363,16700,"Dreadmist Robe",0.122,2.4071
+9024,11747,"Flamestrider Robes",0.242,1.6659
+10508,14340,"Freezing Lich Robes",0.145,2.1778
+181083,22301,"Ironweave Robe",0.097,2.3314
+10363,16688,"Magister's Robes",0.112,2.2445
+14324,18532,"Mindsurge Robe",0.73,2.1629
+179564,18532,"Mindsurge Robe",0.153,2.1629
+10505,14626,"Necropile Robe",0.012,2.0732
+11261,14626,"Necropile Robe",0.017,2.0732
+10901,14626,"Necropile Robe",0.013,2.0732
+10507,14626,"Necropile Robe",0.012,2.0732
+10504,14626,"Necropile Robe",0.082,2.0732
+10502,14626,"Necropile Robe",0.013,2.0732
+11496,18385,"Robe of Everlasting Night",0.21,2.1536
+10440,13346,"Robes of the Exalted",0.147,2.3118
+9019,11924,"Robes of the Royal Crown",0.203,2.0475
+9041,11784,"Arbiter's Blade",0.22,3.3835
+9499,12791,"Barman Shanker",0.104,3.9411
+16118,22332,"Blade of Necromancy",0.147,5.3683
+11496,18372,"Blade of the New Moon",0.097,5.6716
+12201,17710,"Charstone Dirk",0.195,3.5483
+10429,12940,"Dal'Rend's Sacred Charge",0.078,5.4812
+10433,14576,"Ebon Hilt of Marduk",0.067,4.877
+11492,18321,"Energetic Rod",0.191,4.932
+12203,17943,"Fist of Stone",0.257,3.2156
+9028,11702,"Grizzle's Skinner",0.316,3.6752
+16097,22315,"Hammer of Revitalization",0.151,4.9816
+9537,18044,"Hurley's Tankard",0.262,4.1478
+10508,13952,"Iceblade Hacker",0.149,5.6683
+9033,11817,"Lord General's Sword",0.103,3.9254
+11486,18396,"Mind Carver",0.202,5.7516
+10430,12709,"Pip's Skinner",0.138,5.7991
+9016,11805,"Rubidium Hammer",0.061,4.0439
+10440,13349,"Scepter of the Unholy",0.144,5.8429
+1853,13953,"Silent Fang",0.127,5.688
+10516,13408,"Soul Breaker",0.183,4.4142
+169243,11923,"The Hammer of Grace",0.226,4.3648
+5709,10837,"Tooth of Eranikus",0.144,3.8801
+10997,22404,"Willey's Back Scratcher",0.095,5.4793
+169243,11920,"Wraith Scythe",0.203,4.0732
+10429,12939,"Dal'Rend's Tribal Guardian",0.118,6.0363
+11486,18392,"Distracting Dagger",0.191,5.671
+10809,13399,"Gargoyle Shredder Talons",0.337,4.6312
+11501,18523,"Brightly Glowing Stone",0.242,3.481
+12203,17737,"Cloud Stone",0.244,1.0163
+5721,10796,"Drakestone",0.013,0.8982
+5720,10796,"Drakestone",0.014,0.8982
+5719,10796,"Drakestone",0.012,0.8982
+5722,10796,"Drakestone",0.013,0.8982
+9018,11625,"Enthralled Sphere",0.143,1.0452
+9938,11935,"Magmus Stone",0.208,1.3162
+181083,22329,"Scepter of Interminable Focus",0.248,3.445
+10438,13524,"Skull of Burning Shadows",0.179,1.2458
+10508,18695,"Spellbound Tome",0.152,3.445
+9019,11928,"Thaurissan's Royal Scepter",0.184,2.2045
+16080,22319,"Tome of Divine Right",0.21,3.8664
+10811,13385,"Tome of Knowledge",0.137,1.3237
+10363,22253,"Tome of the Lost",0.22,3.445
+10505,18680,"Ancient Bone Bow",0.012,3.7894
+11261,18680,"Ancient Bone Bow",0.016,3.7894
+10901,18680,"Ancient Bone Bow",0.013,3.7894
+10507,18680,"Ancient Bone Bow",0.013,3.7894
+10504,18680,"Ancient Bone Bow",0.081,3.7894
+10502,18680,"Ancient Bone Bow",0.014,3.7894
+10436,13534,"Banshee Finger",0.176,3.7727
+9236,12651,"Blackcrow",0.073,3.6055
+1853,13938,"Bonecreeper Stylus",0.133,3.9304
+10437,18738,"Carapace Spine Crossbow",0.18,3.7593
+9319,11628,"Houndmaster's Bow",0.103,2.4433
+9319,11629,"Houndmaster's Rifle",0.12,2.4527
+181074,22318,"Malgen’s Long Bow",0.234,3.7362
+14324,18483,"Mana Channeling Wand",0.427,3.7362
+13601,17717,"Megashot Rifle",0.328,2.6425
+9024,11748,"Pyric Caduceus",0.284,2.5083
+9236,12653,"Riphook",0.073,3.6318
+10440,22408,"Ritssyn's Wand of Bad Mojo",0.165,4.2763
+5709,10836,"Rod of Corrosion",0.27,2.8989
+11490,18323,"Satyr's Bow",0.193,3.2988
+10436,18729,"Screeching Bow",0.173,3.8302
+10509,12605,"Serpentine Skuller",0.333,2.9106
+10393,13396,"Skul's Ghastly Touch",0.301,3.0853
+11486,18388,"Stoneshatter",0.103,4.1928
+10997,13380,"Willey's Portable Howitzer",0.194,3.8443
+10435,23198,"Idol of Brutality",0.036,1.8165
+9025,22397,"Idol of Ferocity",0.176,1.3067
+16080,22398,"Idol of Rejuvenation",0.173,1.6898
+11261,23201,"Libram of Divinity",0.029,1.8997
+10504,23201,"Libram of Divinity",0.036,1.8997
+10502,23201,"Libram of Divinity",0.01,1.8997
+16097,22401,"Libram of Hope",0.207,1.7078
+9938,22400,"Libram of Truth",0.123,1.3208
+9938,22395,"Totem of Rage",0.08,1.2973
+11261,23200,"Totem of Sustaining",0.021,1.8929
+10504,23200,"Totem of Sustaining",0.028,1.8929
