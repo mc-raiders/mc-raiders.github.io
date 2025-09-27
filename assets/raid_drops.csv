@@ -1,0 +1,249 @@
+NPC_ID,NPC_NAME,DROP_PCT,DB_ID,REF_ID,DISP_ID,SLOT,CLASS,ITEM_NAME
+11502,Ragnaros,8.00%,17076,0,32199,Two-Hand,Sword,Bonereaver's Edge
+11502,Ragnaros,8.00%,17082,0,,Trinket,,Shard of the Flame
+11502,Ragnaros,8.00%,17104,0,19228,Two-Hand,Axe,Spinal Reaper
+11502,Ragnaros,3.00%,17204,0,,,,Eye of Sulfuras
+11502,Ragnaros,100.00%,34030,1,,,,Ragnaros Group 1
+11502,Ragnaros,100.00%,34069,1,,,,Ragnaros Group 2
+11502,Ragnaros,100.00%,34070,1,,,,Ragnaros Group 3
+11658,Molten Giant,9.00%,34012,1,,,,T1 Belt/Bracers
+11659,Molten Destroyer,9.00%,34012,1,,,,T1 Belt/Bracers
+11661,Flamewaker,13.50%,34012,1,,,,T1 Belt/Bracers
+11662,Flamewaker Priest,13.50%,34012,1,,,,T1 Belt/Bracers
+11665,Lava Annihilator,24.92%,17011,0,,,,Lava Core
+11665,Lava Annihilator,4.50%,34012,1,,,,T1 Belt/Bracers
+11666,Firewalker,42.23%,17010,0,,,,Fiery Core
+11666,Firewalker,9.00%,34012,1,,,,T1 Belt/Bracers
+11667,Flameguard,34.73%,17010,0,,,,Fiery Core
+11667,Flameguard,9.00%,34012,1,,,,T1 Belt/Bracers
+11668,Firelord,23.44%,17010,0,,,,Fiery Core
+11668,Firelord,9.00%,34012,1,,,,T1 Belt/Bracers
+11673,Ancient Core Hound,18.00%,34012,1,,,,T1 Belt/Bracers
+11982,Magmadar,100.00%,34050,1,,,,Magmadar Group 1
+11982,Magmadar,100.00%,34051,1,,,,Magmadar Group 2
+11982,Magmadar,100.00%,34052,1,,,,Magmadar Group 3
+11988,Golemagg,28.00%,17011,0,,,,Lava Core
+11988,Golemagg,100.00%,34058,1,,,,Golemagg Group 1
+11988,Golemagg,100.00%,34059,1,,,,Golemagg Group 2
+11988,Golemagg,100.00%,34060,1,,,,Golemagg Group 3
+12056,Baron Geddon,14.00%,17010,0,,,,Fiery Core
+12056,Baron Geddon,4.00%,18563,0,,,,Bindings of the Windseeker (L)
+12056,Baron Geddon,100.00%,34056,1,,,,Baron Geddon Group 1
+12056,Baron Geddon,100.00%,34057,1,,,,Baron Geddon Group 2
+12057,Garr,50.00%,17011,0,,,,Lava Core
+12057,Garr,4.00%,18564,0,,,,Bindings of the Windseeker (R)
+12057,Garr,100.00%,34053,1,,,,Garr Group 1
+12057,Garr,100.00%,34054,1,,,,Garr Group 2
+12057,Garr,100.00%,34055,1,,,,Garr Group 3
+12076,Lava Elemental,47.69%,17011,0,,,,Lava Core
+12076,Lava Elemental,4.50%,34012,1,,,,T1 Belt/Bracers
+12098,Sulfuron Harbinger,100.00%,34067,1,,,,Sulfuron Group 1
+12098,Sulfuron Harbinger,100.00%,34068,1,,,,Sulfuron Group 2
+12100,Lava Reaver,44.13%,17011,0,,,,Lava Core
+12100,Lava Reaver,9.00%,34012,1,,,,T1 Belt/Bracers
+12101,Lava Surger,6.97%,17011,0,,,,Lava Core
+12101,Lava Surger,4.50%,34012,1,,,,T1 Belt/Bracers
+12118,Lucifron,100.00%,34061,1,,,,Lucifron Group 1
+12118,Lucifron,100.00%,34062,1,,,,Lucifron Group 2
+12119,Flamewaker Protector,13.50%,34012,1,,,,T1 Belt/Bracers
+12259,Gehennas,100.00%,34063,1,,,,Gehennas Group 1
+12259,Gehennas,100.00%,34064,1,,,,Gehennas Group 2
+12264,Shazzrah,100.00%,34065,1,,,,Shazzrah Group 1
+12264,Shazzrah,100.00%,34066,1,,,,Shazzrah Group 1
+16719,Cache of the Firelord,100.00%,10001,1,,,,Majordomo Quest Item
+16719,Cache of the Firelord,100.00%,10002,1,,,,Majordomo Group 1
+16719,Cache of the Firelord,100.00%,10003,1,,,,Majordomo Group 2
+34012,T1 Belt/Bracers,6.25%,16799,0,30584,Wrist,Cloth,Arcanist Bindings
+34012,T1 Belt/Bracers,6.25%,16802,0,30583,Waist,Cloth,Arcanist Belt
+34012,T1 Belt/Bracers,6.25%,16804,0,31970,Wrist,Cloth,Felheart Bracers
+34012,T1 Belt/Bracers,6.25%,16806,0,31969,Waist,Cloth,Felheart Belt
+34012,T1 Belt/Bracers,6.25%,16817,0,30621,Waist,Cloth,Girdle of Prophecy
+34012,T1 Belt/Bracers,6.25%,16819,0,30617,Wrist,Cloth,Vambraces of Prophecy
+34012,T1 Belt/Bracers,6.25%,16825,0,31106,Wrist,Leather,Nightslayer Bracelets
+34012,T1 Belt/Bracers,6.25%,16827,0,31339,Waist,Leather,Nightslayer Belt
+34012,T1 Belt/Bracers,6.25%,16828,0,31722,Waist,Leather,Cenarion Belt
+34012,T1 Belt/Bracers,6.25%,16830,0,31725,Wrist,Leather,Cenarion Bracers
+34012,T1 Belt/Bracers,6.25%,16850,0,32018,Wrist,Mail,Giantstalker's Bracers
+34012,T1 Belt/Bracers,6.25%,16851,0,32019,Waist,Mail,Giantstalker's Belt
+34012,T1 Belt/Bracers,6.25%,16857,0,31509,Wrist,Plate,Lawbringer Bracers
+34012,T1 Belt/Bracers,6.25%,16858,0,31353,Waist,Plate,Lawbringer Belt
+34012,T1 Belt/Bracers,6.25%,16861,0,31020,Wrist,Plate,Bracers of Might
+34012,T1 Belt/Bracers,6.25%,16864,0,31019,Waist,Plate,Belt of Might
+34030,Ragnaros Group 1,12.50%,16901,0,31729,Legs,Leather,Stormrage Legguards
+34030,Ragnaros Group 1,12.50%,16909,0,31115,Legs,Leather,Bloodfang Pants
+34030,Ragnaros Group 1,12.50%,16915,0,34039,Legs,Cloth,Netherwind Pants
+34030,Ragnaros Group 1,12.50%,16922,0,34049,Legs,Cloth,Leggings of Transcendence
+34030,Ragnaros Group 1,12.50%,16930,0,7939,Legs,Cloth,Nemesis Leggings
+34030,Ragnaros Group 1,12.50%,16938,0,32023,Legs,Mail,Dragonstalker's Legguards
+34030,Ragnaros Group 1,12.50%,16954,0,33637,Legs,Plate,Judgement Legplates
+34030,Ragnaros Group 1,12.50%,16962,0,33986,Legs,Plate,Legplates of Wrath
+34050,Magmadar Group 1,20.00%,17073,0,25627,Two-Hand,Mace,Earthshaker
+34050,Magmadar Group 1,20.00%,18203,0,30595,Main Hand,Fist,Eskhander's Right Claw
+34050,Magmadar Group 1,6.00%,18820,0,,Trinket,,Talisman of Ephemeral Power
+34050,Magmadar Group 1,6.00%,18821,0,,Finger,,Quick Strike Ring
+34050,Magmadar Group 1,6.00%,18822,0,33882,Two-Hand,Sword,Obsidian Edged Blade
+34050,Magmadar Group 1,6.00%,18823,0,15684,Hands,Leather,Aged Core Leather Gloves
+34050,Magmadar Group 1,6.00%,18824,0,31292,Feet,Plate,Magma Tempered Boots
+34050,Magmadar Group 1,6.00%,18861,0,31320,Legs,Plate,Flamewaker Legplates
+34050,Magmadar Group 1,6.00%,19136,0,34011,Waist,Cloth,Mana Igniting Cord
+34050,Magmadar Group 1,6.00%,19142,0,23323,Off-Hand,Held,Fire Runed Grimoire
+34050,Magmadar Group 1,6.00%,19143,0,29848,Hands,Plate,Flameguard Gauntlets
+34050,Magmadar Group 1,6.00%,19144,0,31472,Feet,Mail,Sabatons of the Flamewalker
+34051,Magmadar Group 2,20.00%,16835,0,31729,Legs,Leather,Cenarion Leggings
+34051,Magmadar Group 2,20.00%,16847,0,32023,Legs,Mail,Giantstalker's Leggings
+34051,Magmadar Group 2,20.00%,16855,0,31352,Legs,Plate,Lawbringer Legplates
+34051,Magmadar Group 2,20.00%,16867,0,31023,Legs,Plate,Legplates of Might
+34051,Magmadar Group 2,20.00%,17065,0,,Neck,,Medallion of Steadfast Might
+34052,Magmadar Group 3,20.00%,16796,0,30582,Legs,Cloth,Arcanist Leggings
+34052,Magmadar Group 3,20.00%,16810,0,31972,Legs,Cloth,Felheart Pants
+34052,Magmadar Group 3,20.00%,16814,0,27598,Legs,Cloth,Pants of Prophecy
+34052,Magmadar Group 3,20.00%,16822,0,31340,Legs,Leather,Nightslayer Pants
+34052,Magmadar Group 3,20.00%,17069,0,30927,Ranged,Bow,Striker's Mark
+34053,Garr Group 1,20.00%,16834,0,32790,Head,Leather,Cenarion Helm
+34053,Garr Group 1,20.00%,16846,0,32028,Head,Mail,Giantstalkers' Helmet
+34053,Garr Group 1,20.00%,16854,0,31506,Head,Plate,Lawbringer Helm
+34053,Garr Group 1,20.00%,16866,0,31260,Head,Plate,Helm of Might
+34053,Garr Group 1,20.00%,17066,0,34110,Off-Hand,Shield,Drillborer Disk
+34054,Garr Group 2,20.00%,16795,0,31517,Head,Cloth,Arcanist Crown
+34054,Garr Group 2,20.00%,16808,0,31987,Head,Cloth,Felheart Horns
+34054,Garr Group 2,20.00%,16813,0,31371,Head,Cloth,Circlet of Prophecy
+34054,Garr Group 2,20.00%,16821,0,31514,Head,Leather,Nightslayer Cover
+34054,Garr Group 2,20.00%,17071,0,34111,One-Hand,Dagger,Gutgore Ripper
+34055,Garr Group 3,20.00%,17105,0,34109,One-Hand,Mace,Aurastone Hammer
+34055,Garr Group 3,6.00%,18820,0,,Trinket,,Talisman of Ephemeral Power
+34055,Garr Group 3,6.00%,18821,0,,Finger,,Quick Strike Ring
+34055,Garr Group 3,6.00%,18822,0,33882,Two-Hand,Sword,Obsidian Edged Blade
+34055,Garr Group 3,6.00%,18823,0,15684,Hands,Leather,Aged Core Leather Gloves
+34055,Garr Group 3,6.00%,18824,0,31292,Feet,Plate,Magma Tempered Boots
+34055,Garr Group 3,20.00%,18832,0,22366,One-Hand,Sword,Brutality Blade
+34055,Garr Group 3,6.00%,18861,0,31320,Legs,Plate,Flamewaker Legplates
+34055,Garr Group 3,6.00%,19136,0,34011,Waist,Cloth,Mana Igniting Cord
+34055,Garr Group 3,6.00%,19142,0,23323,Off-Hand,Held,Fire Runed Grimoire
+34055,Garr Group 3,6.00%,19143,0,29848,Hands,Plate,Flameguard Gauntlets
+34055,Garr Group 3,6.00%,19144,0,31472,Feet,Mail,Sabatons of the Flamewalker
+34056,Baron Geddon Group 1,33.33%,16797,0,30586,Shoulder,Cloth,Arcanist Mantle
+34056,Baron Geddon Group 1,33.33%,16807,0,31974,Shoulder,Cloth,Felheart Shoulder Pads
+34056,Baron Geddon Group 1,33.33%,17110,0,,Finger,,Seal of the Archmagus
+34057,Baron Geddon Group 2,30.00%,16836,0,32016,Shoulder,Leather,Cenarion Spaulders
+34057,Baron Geddon Group 2,30.00%,16856,0,31510,Shoulder,Plate,Lawbringer Spaulders
+34057,Baron Geddon Group 2,4.00%,18820,0,,Trinket,,Talisman of Ephemeral Power
+34057,Baron Geddon Group 2,4.00%,18821,0,,Finger,,Quick Strike Ring
+34057,Baron Geddon Group 2,4.00%,18822,0,33882,Two-Hand,Sword,Obsidian Edged Blade
+34057,Baron Geddon Group 2,4.00%,18823,0,15684,Hands,Leather,Aged Core Leather Gloves
+34057,Baron Geddon Group 2,4.00%,18824,0,31292,Feet,Plate,Magma Tempered Boots
+34057,Baron Geddon Group 2,4.00%,18861,0,31320,Legs,Plate,Flamewaker Legplates
+34057,Baron Geddon Group 2,4.00%,19136,0,34011,Waist,Cloth,Mana Igniting Cord
+34057,Baron Geddon Group 2,4.00%,19142,0,23323,Off-Hand,Held,Fire Runed Grimoire
+34057,Baron Geddon Group 2,4.00%,19143,0,29848,Hands,Plate,Flameguard Gauntlets
+34057,Baron Geddon Group 2,4.00%,19144,0,31472,Feet,Mail,Sabatons of the Flamewalker
+34058,Golemagg Group 1,25.00%,16833,0,30536,Chest,Leather,Cenarion Vestments
+34058,Golemagg Group 1,25.00%,16845,0,32022,Chest,Mail,Giantstalker's Breastplate
+34058,Golemagg Group 1,25.00%,16853,0,31505,Chest,Plate,Lawbringer Chestguard
+34058,Golemagg Group 1,25.00%,16865,0,31021,Chest,Plate,Breastplate of Might
+34059,Golemagg Group 2,25.00%,16798,0,30581,Chest,Cloth,Arcanist Robes
+34059,Golemagg Group 2,25.00%,16809,0,31793,Chest,Cloth,Felheart Robes
+34059,Golemagg Group 2,25.00%,16815,0,31490,Chest,Cloth,Robes of Prophecy
+34059,Golemagg Group 2,25.00%,16820,0,31105,Chest,Leather,Nightslayer Chestpiece
+34060,Golemagg Group 3,25.00%,17072,0,26385,Ranged,Gun,Blastershot Launcher
+34060,Golemagg Group 3,25.00%,17103,0,29677,Main Hand,Sword,Azuresong Mageblade
+34060,Golemagg Group 3,2.50%,18820,0,,Trinket,,Talisman of Ephemeral Power
+34060,Golemagg Group 3,2.50%,18821,0,,Finger,,Quick Strike Ring
+34060,Golemagg Group 3,2.50%,18822,0,33882,Two-Hand,Sword,Obsidian Edged Blade
+34060,Golemagg Group 3,2.50%,18823,0,15684,Hands,Leather,Aged Core Leather Gloves
+34060,Golemagg Group 3,2.50%,18824,0,31292,Feet,Plate,Magma Tempered Boots
+34060,Golemagg Group 3,25.00%,18842,0,34114,Two-Hand,Staff,Staff of Dominance
+34060,Golemagg Group 3,2.50%,18861,0,31320,Legs,Plate,Flamewaker Legplates
+34060,Golemagg Group 3,2.50%,19136,0,34011,Waist,Cloth,Mana Igniting Cord
+34060,Golemagg Group 3,2.50%,19142,0,23323,Off-Hand,Held,Fire Runed Grimoire
+34060,Golemagg Group 3,2.50%,19143,0,29848,Hands,Plate,Flameguard Gauntlets
+34060,Golemagg Group 3,2.50%,19144,0,31472,Feet,Mail,Sabatons of the Flamewalker
+34061,Lucifron Group 1,25.00%,16800,0,7776,Feet,Cloth,Arcanist Boots
+34061,Lucifron Group 1,25.00%,16829,0,31724,Feet,Leather,Cenarion Boots
+34061,Lucifron Group 1,25.00%,16859,0,31354,Feet,Plate,Lawbringer Boots
+34061,Lucifron Group 1,25.00%,17109,0,,Neck,,Choker of Enlightenment
+34062,Lucifron Group 2,33.33%,16805,0,31971,Hands,Cloth,Felheart Gloves
+34062,Lucifron Group 2,33.33%,16863,0,31022,Hands,Plate,Gauntlets of Might
+34062,Lucifron Group 2,3.33%,17077,0,29195,Ranged,Wand,Crimson Shocker
+34062,Lucifron Group 2,3.33%,18861,0,31320,Legs,Plate,Flamewaker Legplates
+34062,Lucifron Group 2,3.33%,18870,0,5239,Head,Mail,Helm of the Lifegiver
+34062,Lucifron Group 2,3.33%,18872,0,5874,Legs,Cloth,Manastorm Leggings
+34062,Lucifron Group 2,3.33%,18875,0,3844,Legs,Leather,Salamander Scale Pants
+34062,Lucifron Group 2,3.33%,18878,0,31337,Main Hand,Dagger,Sorcerous Dagger
+34062,Lucifron Group 2,3.33%,18879,0,,Finger,,Heavy Dark Iron Ring
+34062,Lucifron Group 2,3.33%,19145,0,31663,Chest,Cloth,Robe of Volatile Power
+34062,Lucifron Group 2,3.33%,19146,0,3829,Wrists,Leather,Wristguards of Stability
+34062,Lucifron Group 2,3.33%,19147,0,,Finger,,Ring of Spell Power
+34063,Gehennas Group 1,33.33%,16812,0,30620,Hands,Cloth,Gloves of Prophecy
+34063,Gehennas Group 1,33.33%,16826,0,31503,Hands,Leather,Nightslayer Gloves
+34063,Gehennas Group 1,33.33%,16860,0,31507,Hands,Plate,Lawbringer Gauntlets
+34064,Gehennas Group 2,25.00%,16849,0,32040,Feet,Mail,Giantstalker's Boots
+34064,Gehennas Group 2,25.00%,16862,0,31025,Feet,Plate,Sabatons of Might
+34064,Gehennas Group 2,5.00%,17077,0,29195,Ranged,Wand,Crimson Shocker
+34064,Gehennas Group 2,5.00%,18861,0,31320,Legs,Plate,Flamewaker Legplates
+34064,Gehennas Group 2,5.00%,18870,0,5239,Head,Mail,Helm of the Lifegiver
+34064,Gehennas Group 2,5.00%,18872,0,5874,Legs,Cloth,Manastorm Leggings
+34064,Gehennas Group 2,5.00%,18875,0,3844,Legs,Leather,Salamander Scale Pants
+34064,Gehennas Group 2,5.00%,18878,0,31337,Main Hand,Dagger,Sorcerous Dagger
+34064,Gehennas Group 2,5.00%,18879,0,,Finger,,Heavy Dark Iron Ring
+34064,Gehennas Group 2,5.00%,19145,0,31663,Chest,Cloth,Robe of Volatile Power
+34064,Gehennas Group 2,5.00%,19146,0,3829,Wrists,Leather,Wristguards of Stability
+34064,Gehennas Group 2,5.00%,19147,0,,Finger,,Ring of Spell Power
+34065,Shazzrah Group 1,33.33%,16801,0,30585,Hands,Cloth,Arcanist Gloves
+34065,Shazzrah Group 1,33.33%,16831,0,31726,Hands,Leather,Cenarion Gloves
+34065,Shazzrah Group 1,33.33%,16852,0,32024,Hands,Mail,Giantstalker's Gloves
+34066,Shazzrah Group 2,25.00%,16803,0,31975,Feet,Cloth,Felheart Slippers
+34066,Shazzrah Group 2,25.00%,16811,0,31718,Feet,Cloth,Boots of Prophecy
+34066,Shazzrah Group 2,25.00%,16824,0,31109,Feet,Leather,Nightslayer Boots
+34066,Shazzrah Group 2,2.50%,17077,0,29195,Ranged,Wand,Crimson Shocker
+34066,Shazzrah Group 2,2.50%,18861,0,31320,Legs,Plate,Flamewaker Legplates
+34066,Shazzrah Group 2,2.50%,18870,0,5239,Head,Mail,Helm of the Lifegiver
+34066,Shazzrah Group 2,2.50%,18872,0,5874,Legs,Cloth,Manastorm Leggings
+34066,Shazzrah Group 2,2.50%,18875,0,3844,Legs,Leather,Salamander Scale Pants
+34066,Shazzrah Group 2,2.50%,18878,0,31337,Main Hand,Dagger,Sorcerous Dagger
+34066,Shazzrah Group 2,2.50%,18879,0,,Finger,,Heavy Dark Iron Ring
+34066,Shazzrah Group 2,2.50%,19145,0,31663,Chest,Cloth,Robe of Volatile Power
+34066,Shazzrah Group 2,2.50%,19146,0,3829,Wrists,Leather,Wristguards of Stability
+34066,Shazzrah Group 2,2.50%,19147,0,,Finger,,Ring of Spell Power
+34067,Sulfuron Group 1,33.33%,16816,0,30623,Shoulder,Cloth,Mantle of Prophecy
+34067,Sulfuron Group 1,33.33%,16848,0,32030,Shoulder,Mail,Giantstalker's Epaulets
+34067,Sulfuron Group 1,33.33%,17074,0,29176,Two-Hand,Polearm,Shadowstrike
+34068,Sulfuron Group 2,33.33%,16823,0,31343,Shoulder,Leather,Nightslayer Shoulder Pads
+34068,Sulfuron Group 2,33.33%,16868,0,31024,Shoulder,Plate,Pauldrons of Might
+34068,Sulfuron Group 2,3.33%,17077,0,29195,Ranged,Wand,Crimson Shocker
+34068,Sulfuron Group 2,3.33%,18861,0,31320,Legs,Plate,Flamewaker Legplates
+34068,Sulfuron Group 2,3.33%,18870,0,5239,Head,Mail,Helm of the Lifegiver
+34068,Sulfuron Group 2,3.33%,18872,0,5874,Legs,Cloth,Manastorm Leggings
+34068,Sulfuron Group 2,3.33%,18875,0,3844,Legs,Leather,Salamander Scale Pants
+34068,Sulfuron Group 2,3.33%,18878,0,31337,Main Hand,Dagger,Sorcerous Dagger
+34068,Sulfuron Group 2,3.33%,18879,0,,Finger,,Heavy Dark Iron Ring
+34068,Sulfuron Group 2,3.33%,19145,0,31663,Chest,Cloth,Robe of Volatile Power
+34068,Sulfuron Group 2,3.33%,19146,0,3829,Wrists,Leather,Wristguards of Stability
+34068,Sulfuron Group 2,3.33%,19147,0,,Finger,,Ring of Spell Power
+34069,Ragnaros Group 2,20.00%,18814,0,,Neck,,Choker of the Fire Lord
+34069,Ragnaros Group 2,20.00%,18815,0,,Trinket,,Essence of the Pure Flame
+34069,Ragnaros Group 2,20.00%,18816,0,33615,One-Hand,Dagger,Perdition's Blade
+34069,Ragnaros Group 2,20.00%,18817,0,22029,Head,Mail,Crown of Destruction
+34069,Ragnaros Group 2,20.00%,19138,0,,Finger,,Band of Sulfuras
+34070,Ragnaros Group 3,20.00%,17063,0,,Finger,,Band of Accuria
+34070,Ragnaros Group 3,20.00%,17102,0,23422,Back,,Cloak of the Shrouded Mists
+34070,Ragnaros Group 3,20.00%,17106,0,29702,Off-Hand,Shield,Malistar's Defender
+34070,Ragnaros Group 3,20.00%,17107,0,29827,Back,,Dragon's Blood Cape
+34070,Ragnaros Group 3,20.00%,19137,0,15571,Waist,Plate,Onslaught Girdle
+17204,Eye of Sulfuras,100.00%,17182,0,29698,Two-Hand,Mace,"Sulfuras, Hand of Ragnaros"
+18563,Bindings of the Windseeker,100.00%,19019,0,30606,One-Hand,Sword,"Thunderfury, Blessed Blade of the Windseeker"
+10001,Majordomo Quest Item,50.00%,18646,0,,,,The Eye of Divinity
+10001,Majordomo Quest Item,50.00%,18703,0,,,,Ancient Petrified Leaf
+10002,Majordomo Group 2,20.00%,18803,0,31265,Two-Hand,Mace,Finkle's Lava Dredger
+10002,Majordomo Group 2,20.00%,18805,0,33626,One-Hand,Dagger,Core Hound Tooth
+10002,Majordomo Group 2,20.00%,18808,0,12578,Hands,Cloth,Gloves of the Hypnotic Flame
+10002,Majordomo Group 2,20.00%,18811,0,24159,Back,,Fireproof Cloak
+10002,Majordomo Group 2,20.00%,19139,0,5485,Shoulders,Leather,Fireguard Shoulders
+10003,Majordomo Group 3,20.00%,18806,0,22592,Feet,Plate,Core Forged Greaves
+10003,Majordomo Group 3,20.00%,18809,0,11172,Waist,Cloth,Sash of Whispered Secrets
+10003,Majordomo Group 3,20.00%,18810,0,16526,Shoulders,Leather,Wild Growth Spaulders
+10003,Majordomo Group 3,20.00%,18812,0,6210,Wrists,Mail,Wristguards of True Flight
+10003,Majordomo Group 3,20.00%,19140,0,,Finger,,Cauterizing Band
+18608,,100.00%,18609,0,31346,Two-Hand,Staff,Anathema
+18646,,100.00%,18608,0,31347,Two-Hand,Staff,Benediction
+17074,,100.00%,17223,0,29191,Two-Hand,Polearm,Thunderstrike
+18703,,100.00%,18713,0,31338,Ranged,Bow,"Rhok'delar, Longbow of the Ancient Keepers"

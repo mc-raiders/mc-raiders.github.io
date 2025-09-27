@@ -1,0 +1,46 @@
+name,entry,id,creature_id,event_type,event_inverse_phase_mask,event_chance,event_flags,event_param1,event_param2,event_param3,event_param4,event_param5,event_param6,action1_type,action1_param1,action1_param2,action1_param3,action2_type,action2_param1,action2_param2,action2_param3,action3_type,action3_param1,action3_param2,action3_param3,comment
+Molten Giant,11658,1165801,11658,11,0,100,0,0,0,0,0,0,0,11,18943,0,34,0,0,0,0,0,0,0,0,Molten Giant - Cast Double Attack on Spawn
+Molten Giant,11658,1165802,11658,0,0,100,1025,6000,11000,12000,16000,0,0,11,18945,1,0,0,0,0,0,0,0,0,0,Molten Giant - Cast Knock Away
+Molten Giant,11658,1165803,11658,0,0,100,1025,6000,10000,7000,10000,0,0,11,18944,17,0,0,0,0,0,0,0,0,0,Molten Giant - Cast Smash
+Molten Destroyer,11659,1165901,11659,11,0,100,0,0,0,0,0,0,0,11,18943,0,34,0,0,0,0,0,0,0,0,Molten Destroyer - Cast Double Attack on Spawn
+Molten Destroyer,11659,1165902,11659,0,0,100,1025,4000,6000,7000,10000,0,0,11,20276,4,512,0,0,0,0,0,0,0,0,Molten Destroyer - Cast Knockdown
+Molten Destroyer,11659,1165903,11659,0,0,100,1025,9000,12000,8000,11000,0,0,11,19129,17,0,0,0,0,0,0,0,0,0,Molten Destroyer - Cast Massive Tremor
+Flamewaker,11661,1166101,11661,0,0,100,1025,6000,6000,4000,8000,0,0,11,15502,1,0,0,0,0,0,0,0,0,0,Flamewaker - Cast Sunder Armor
+Flamewaker,11661,1166102,11661,0,0,100,1025,4000,8000,4000,8000,0,0,11,19730,4,512,0,0,0,0,0,0,0,0,Flamewaker - Cast Strike
+Flamewaker,11661,1166103,11661,0,0,100,1025,5000,5000,8000,13000,0,0,11,20277,17,0,0,0,0,0,0,0,0,0,Flamewaker - Cast Fist of Ragnaros
+Flamewaker Healer,11663,1166301,11663,0,0,100,1025,9000,14000,8000,12000,0,0,11,20603,17,0,0,0,0,0,0,0,0,0,Flamewaker Healer – Cast Shadow Shock
+Flamewaker Healer,11663,1166302,11663,0,0,100,1025,6000,8000,6000,17000,0,0,11,21077,1,256,0,0,0,0,0,0,0,0,Flamewaker Healer – Cast Shadow Bolt
+Flamewaer Elite,11664,1166401,11664,0,0,100,1025,17000,31000,22000,37000,0,0,11,20229,17,0,0,0,0,0,0,0,0,0,Flamewaker Elite – Cast Blast Wave
+Flamewaer Elite,11664,1166402,11664,0,0,100,1025,9000,11000,9000,12000,0,0,11,20623,4,512,0,0,0,0,0,0,0,0,Flamewaker Elite – Cast Fire Blast
+Flamewaer Elite,11664,1166403,11664,0,0,100,1025,11000,24000,12000,23000,0,0,11,20420,1,256,0,0,0,0,0,0,0,0,Flamewaker Elite – Cast Fireball
+Lava Annihilator,11665,1166501,11665,11,0,100,0,0,0,0,0,0,0,11,19194,0,34,11,19195,0,34,0,0,0,0,"Lava Annihilator – Cast Double Attack, Hate to 90% on Spawn"
+Firewalker,11666,1166601,11666,0,0,100,1025,7000,11000,8000,15000,0,0,11,19635,17,0,0,0,0,0,0,0,0,0,Firewalker - Cast Incite Flames
+Firewalker,11666,1166602,11666,0,0,100,1025,5000,8000,12000,17000,0,0,11,19636,0,0,0,0,0,0,0,0,0,0,Firewalker - Cast Fire Blossom
+Flameguard,11667,1166701,11667,11,0,100,0,0,0,0,0,0,0,11,19626,0,2,0,0,0,0,0,0,0,0,Flameguard - Cast Fire Shield on Spawn
+Flameguard,11667,1166702,11667,0,0,100,1025,8000,16000,12000,14000,0,0,11,19630,15,0,0,0,0,0,0,0,0,0,Flameguard - Cast Cone of Fire
+Flameguard,11667,1166703,11667,0,0,100,1025,5000,8000,7000,11000,0,0,11,19631,17,0,0,0,0,0,0,0,0,0,Flameguard - Cast Melt Armor
+Flameguard,11667,1166704,11667,6,0,100,0,0,0,0,0,0,0,11,19629,0,0,0,0,0,0,0,0,0,0,Flameguard - Cast Summon Flames on Death
+Firelord,11668,1166801,11668,11,0,100,0,0,0,0,0,0,0,11,19396,0,2,0,0,0,0,0,0,0,0,Firelord - Cast Incinerate on Spawn
+Firelord,11668,1166802,11668,0,0,100,1025,4000,6000,2000,4000,0,0,11,19393,4,544,0,0,0,0,0,0,0,0,Firelord - Cast Soul Burn
+Firelord,11668,1166803,11668,0,0,100,1025,10000,15000,15000,20000,0,0,11,19392,0,0,0,0,0,0,0,0,0,0,Firelord - Summon Lava Spawn
+Flame Imp,11669,1166901,11669,0,0,100,1025,5000,15000,4000,7000,0,0,11,20602,17,0,0,0,0,0,0,0,0,0,Flame Imp - Cast Fire Nova
+Core Hound,11671,1167101,11671,28,0,100,1025,19771,10,5000,9000,0,0,11,19771,1,0,0,0,0,0,0,0,0,0,Core Hound - Cast Serrated Bite on Target Missing Serrated Bite Aura Stack
+Ancient Core Hound,11673,1167301,11673,11,0,100,0,0,0,0,0,0,0,11,18950,0,2,0,0,0,0,0,0,0,0,Ancient Core Hound - Cast Invisibility and Stealth Detection on Spawn
+Ancient Core Hound,11673,1167302,11673,4,0,100,0,0,0,0,0,0,0,31,0,5,0,0,0,0,0,0,0,0,0,Ancient Core Hound - Set Random Phase 0-5 on Aggro
+Ancient Core Hound,11673,1167303,11673,0,0,100,1025,1000,1000,1000,1000,0,0,11,19319,1,0,0,0,0,0,0,0,0,0,Ancient Core Hound - Cast Vicious Bite
+Ancient Core Hound,11673,1167304,11673,0,0,100,1025,8000,12000,9000,14000,0,0,11,19272,15,0,0,0,0,0,0,0,0,0,Ancient Core Hound - Cast Lava Breath
+Ancient Core Hound,11673,1167305,11673,0,62,100,1025,5000,10000,8000,12000,0,0,11,19364,17,0,0,0,0,0,0,0,0,0,Ancient Core Hound - Cast Ground Stomp (Phase 0)
+Ancient Core Hound,11673,1167306,11673,0,61,100,1025,9000,14000,17000,24000,0,0,11,19365,17,0,0,0,0,0,0,0,0,0,Ancient Core Hound - Cast Ancient Dread (Phase 1)
+Ancient Core Hound,11673,1167307,11673,0,59,100,1025,10000,17000,13000,18000,0,0,11,19369,17,0,0,0,0,0,0,0,0,0,Ancient Core Hound - Cast Ancient Despair (Phase 2)
+Ancient Core Hound,11673,1167308,11673,0,55,100,1025,11000,16000,13000,18000,0,0,11,19366,17,0,0,0,0,0,0,0,0,0,Ancient Core Hound - Cast Cauterizing Flames (Phase 3)
+Ancient Core Hound,11673,1167309,11673,0,47,100,1025,7000,11000,14000,18000,0,0,11,19367,17,0,0,0,0,0,0,0,0,0,Ancient Core Hound - Cast Withering Heat (Phase 4)
+Ancient Core Hound,11673,1167310,11673,0,31,100,1025,6000,10000,14000,19000,0,0,11,19372,17,0,0,0,0,0,0,0,0,0,Ancient Core Hound - Cast Ancient Hysteria (Phase 5)
+Lava Elemental,12076,1207601,12076,0,0,100,1025,6000,9000,9000,14000,0,0,11,19641,15,0,0,0,0,0,0,0,0,0,Lava Elemental - Cast Pyroclast Barrage
+Lava Reaver,12100,1210001,12100,9,0,100,1025,0,5,5000,7000,0,0,11,19644,1,0,0,0,0,0,0,0,0,0,Lava Reaver - Cast Strike
+Lava Reaver,12100,1210002,12100,0,0,100,1025,8000,11000,12000,15000,0,0,11,19642,4,512,0,0,0,0,0,0,0,0,Lava Reaver - Cast Cleave
+Lava Surger,12101,1210101,12101,0,0,100,1025,0,1000,12000,15000,0,0,11,19196,4,512,0,0,0,0,0,0,0,0,Lava Surger - Cast Surge
+Flamewaker Protector,12119,1211901,12119,9,0,100,1025,0,5,6000,9000,0,0,11,20605,1,0,0,0,0,0,0,0,0,0,Flamewaker Protector - Cast Cleave
+Flamewaker Protector,12119,1211902,12119,0,0,100,1025,9000,12000,20000,26000,0,0,11,20604,1,512,0,0,0,0,0,0,0,0,Flamewaker Protector - Cast Dominate Mind
+Lava Spawn,12265,1226501,12265,0,0,100,1025,0,1000,3000,3000,0,0,11,19391,1,0,0,0,0,0,0,0,0,0,Lava Spawn – Cast Fireball
+Lava Spawn,12265,1226502,12265,0,0,100,1024,30000,30000,0,0,0,0,11,19569,0,2,54,7570,0,0,0,0,0,0,Lava Spawn – Cast Split and Emote
+Lava Spawn,12265,1226503,12265,0,0,100,1024,12265,0,0,0,0,0,11,19570,0,2,41,0,0,0,0,0,0,0,Lava Spawn – Cast Split and Forced Despawn

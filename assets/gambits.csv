@@ -1,0 +1,157 @@
+class,spec,type,actionId,name,conditions
+0,0,pot,13444,Major Mana Potion,308
+0,0,spell,29166,Innervate,309
+0,0,attack,6063,Attack:On,310
+0,0,spell,9858,Regrowth,401
+0,0,spell,25299,Rejuvenation,402
+0,0,spell,25297,Healing Touch,405
+0,0,spell,5188,Lesser HT,401
+0,1,spell,9634,Dire Bear Form,926
+0,1,spell,768,Cat Form,927
+0,1,spell,22896,Frenzied Regeneration,206
+0,1,pot,13446,Major Healing Potion,208
+0,1,spell,9908,Swipe,717
+0,1,spell,9881,Maul,
+0,1,spell,31018,Ferocious Bite,109;824
+0,1,spell,9896,Rip,824;1031
+0,1,spell,9830,Shred,
+0,2,pot,13444,Major Mana Potion,308
+0,2,spell,29166,Innervate,309
+0,2,attack,6063,Attack:On,310
+0,2,spell,9858,Regrowth,501
+0,2,spell,25299,Rejuvenation,502
+0,2,spell,18562,Swiftmend,505
+0,2,spell,25297,Healing Touch,505
+0,2,spell,5188,Lesser HT,501
+1,0,pot,13444,Major Mana Potion,308
+1,0,spell,14751,Inner Focus,309
+1,0,spell,5019,Shoot,310
+1,0,spell,10901,Power Word: Shield,401
+1,0,spell,25315,Renew,502
+1,0,spell,25314,Greater Heal,505
+1,0,spell,6064,Heal,501
+1,1,pot,13444,Major Mana Potion,308
+1,1,spell,14751,Inner Focus,309
+1,1,spell,5019,Shoot,310
+1,1,spell,10901,Power Word: Shield,401
+1,1,spell,25315,Renew,402
+1,1,spell,25314,Greater Heal,405
+1,1,spell,6064,Heal,401
+1,2,pot,13444,Major Mana Potion,308
+1,2,spell,14751,Inner Focus,309
+1,2,spell,5019,Shoot,310
+1,2,spell,10901,Power Word: Shield,208
+1,2,spell,10894,Shadow Word: Pain,120;1031
+1,2,spell,18807,Mind Flay,
+2,0,spell,19900,Fire Resistance Aura,
+2,0,pot,13444,Major Mana Potion,308
+2,0,spell,20216,Divine Favor,309
+2,0,spell,20930,Holy Shock,506
+2,0,spell,25292,Holy Light,505
+2,0,spell,19943,Flash of Light,501
+2,1,spell,19900,Fire Resistance Aura,
+2,1,pot,13444,Major Mana Potion,308
+2,1,spell,20928,Holy Shield,
+2,1,spell,20293,Seal of Righteousness,320
+2,1,spell,20924,Consecration,317
+2,1,spell,20271,Judgement,319
+2,2,spell,19900,Fire Resistance Aura,
+2,2,pot,13444,Major Mana Potion,308
+2,2,spell,20920,Seal of Command,320
+2,2,spell,20924,Consecration,317
+2,2,spell,20271,Judgement,319
+3,0,pot,13444,Major Mana Potion,308
+3,0,spell,12051,Evocation,309
+3,0,spell,5019,Shoot,310
+3,0,spell,12042,Arcane Power,
+3,0,spell,12043,Presence of Mind,
+3,0,spell,25304,Frostbolt,
+3,1,pot,13444,Major Mana Potion,308
+3,1,spell,12051,Evocation,309
+3,1,spell,5019,Shoot,310
+3,1,spell,11129,Combustion,103
+3,1,spell,25306,Fireball,
+3,1,spell,10207,Scorch,
+3,2,pot,13444,Major Mana Potion,308
+3,2,spell,12051,Evocation,309
+3,2,spell,5019,Shoot,310
+3,2,spell,25304,Frostbolt,
+4,0,pot,13446,Major Healing Potion,208
+4,0,spell,11689,Life Tap,308
+4,0,spell,25311,Corruption,119;1031
+4,0,spell,11713,Curse of Agony,118;1031
+4,0,spell,18881,Siphon Life,119;1031
+4,0,spell,25309,Immolate,120;1031
+4,0,spell,18871,Shadowburn,110
+4,0,spell,25307,Shadow Bolt,
+4,1,pot,13446,Major Healing Potion,208
+4,1,spell,11689,Life Tap,308
+4,1,spell,25311,Corruption,119;1031
+4,1,spell,25309,Immolate,120;1031
+4,1,spell,11713,Curse of Agony,118;1031
+4,1,spell,18871,Shadowburn,
+4,1,spell,25307,Shadow Bolt,
+4,2,pot,13446,Major Healing Potion,208
+4,2,spell,11689,Life Tap,308
+4,2,spell,25311,Corruption,119;1031
+4,2,spell,25309,Immolate,120;1031
+4,2,spell,11713,Curse of Agony,118;1031
+4,2,spell,18871,Shadowburn,
+4,2,spell,25307,Shadow Bolt,
+5,0,pot,13446,Major Healing Potion,208
+5,0,spell,20904,Aimed Shot,
+5,0,spell,25294,Multi-Shot,
+5,0,spell,25295,Serpent Sting,1031
+5,0,spell,75,Auto Shot,
+5,1,pot,13446,Major Healing Potion,208
+5,1,spell,20904,Aimed Shot,
+5,1,spell,25294,Multi-Shot,
+5,1,spell,25295,Serpent Sting,1031
+5,1,spell,75,Auto Shot,
+5,2,pot,13446,Major Healing Potion,208
+5,2,spell,20904,Aimed Shot,
+5,2,spell,25294,Multi-Shot,
+5,2,spell,25295,Serpent Sting,1031
+5,2,spell,75,Auto Shot,
+6,0,pot,13446,Major Healing Potion,208
+6,0,spell,6774,Slice and Dice,823;1032
+6,0,spell,11275,Rupture,824;119;1031
+6,0,spell,31016,Eviscerate,824
+6,0,spell,25300,Backstab,
+6,0,spell,11294,Sinister Strike,615
+6,1,pot,13446,Major Healing Potion,208
+6,1,spell,13750,Adrenaline Rush,608
+6,1,spell,13877,Blade Flurry,608
+6,1,spell,6774,Slice and Dice,823;1032
+6,1,spell,11275,Rupture,824;119;1031
+6,1,spell,31016,Eviscerate,824
+6,1,spell,25300,Backstab,
+6,1,spell,11294,Sinister Strike,615
+6,2,pot,13446,Major Healing Potion,208
+6,2,spell,13750,Adrenaline Rush,608
+6,2,spell,13877,Blade Flurry,608
+6,2,spell,6774,Slice and Dice,823;1032
+6,2,spell,11275,Rupture,824;119;1031
+6,2,spell,31016,Eviscerate,824
+6,2,spell,25300,Backstab,
+6,2,spell,11294,Sinister Strike,615
+7,0,spell,2458,Berserker Stance,
+7,0,pot,13446,Major Healing Potion,208
+7,0,spell,20662,Execute,109
+7,0,spell,23894,Bloodthirst,
+7,0,spell,1680,Whirlwind,
+7,0,spell,11605,Slam,
+7,0,spell,25286,Heroic Strike,
+7,0,spell,2458,Berserker Stance,
+7,1,pot,13446,Major Healing Potion,208
+7,1,spell,20662,Execute,109
+7,1,spell,23894,Bloodthirst,
+7,1,spell,1680,Whirlwind,
+7,1,spell,25286,Heroic Strike,
+7,2,spell,71,Defensive Stance,926
+7,2,spell,2458,Berserker Stance,927
+7,2,pot,13455,Greater Stoneshield Potion,208
+7,2,spell,2565,Shield Block,
+7,2,spell,23925,Shield Slam,
+7,2,spell,25288,Revenge,
+7,2,spell,25286,Heroic Strike,
