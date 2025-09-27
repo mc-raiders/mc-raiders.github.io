@@ -6,8 +6,8 @@ class,spec,type,actionId,name,conditions
 0,0,spell,25299,Rejuvenation,402
 0,0,spell,25297,Healing Touch,405
 0,0,spell,5188,Lesser HT,401
-0,1,spell,9634,Dire Bear Form,926
-0,1,spell,768,Cat Form,927
+0,1,spell,9634,Dire Bear Form,926;1031
+0,1,spell,768,Cat Form,927;1031
 0,1,spell,22896,Frenzied Regeneration,206
 0,1,pot,13446,Major Healing Potion,208
 0,1,spell,9908,Swipe,717
@@ -43,19 +43,19 @@ class,spec,type,actionId,name,conditions
 1,2,spell,10901,Power Word: Shield,208
 1,2,spell,10894,Shadow Word: Pain,120;1031
 1,2,spell,18807,Mind Flay,
-2,0,spell,19900,Fire Resistance Aura,
+2,0,spell,19900,Fire Resistance Aura,1031
 2,0,pot,13444,Major Mana Potion,308
 2,0,spell,20216,Divine Favor,309
 2,0,spell,20930,Holy Shock,506
 2,0,spell,25292,Holy Light,505
 2,0,spell,19943,Flash of Light,501
-2,1,spell,19900,Fire Resistance Aura,
+2,1,spell,19900,Fire Resistance Aura,1031
 2,1,pot,13444,Major Mana Potion,308
 2,1,spell,20928,Holy Shield,
 2,1,spell,20293,Seal of Righteousness,320
 2,1,spell,20924,Consecration,317
 2,1,spell,20271,Judgement,319
-2,2,spell,19900,Fire Resistance Aura,
+2,2,spell,19900,Fire Resistance Aura,1031
 2,2,pot,13444,Major Mana Potion,308
 2,2,spell,20920,Seal of Command,320
 2,2,spell,20924,Consecration,317
@@ -135,21 +135,21 @@ class,spec,type,actionId,name,conditions
 6,2,spell,31016,Eviscerate,824
 6,2,spell,25300,Backstab,
 6,2,spell,11294,Sinister Strike,615
-7,0,spell,2458,Berserker Stance,
+7,0,spell,2458,Berserker Stance,1031
 7,0,pot,13446,Major Healing Potion,208
 7,0,spell,20662,Execute,109
 7,0,spell,23894,Bloodthirst,
 7,0,spell,1680,Whirlwind,
 7,0,spell,11605,Slam,
 7,0,spell,25286,Heroic Strike,
-7,0,spell,2458,Berserker Stance,
+7,0,spell,2458,Berserker Stance,1031
 7,1,pot,13446,Major Healing Potion,208
 7,1,spell,20662,Execute,109
 7,1,spell,23894,Bloodthirst,
 7,1,spell,1680,Whirlwind,
 7,1,spell,25286,Heroic Strike,
-7,2,spell,71,Defensive Stance,926
-7,2,spell,2458,Berserker Stance,927
+7,2,spell,71,Defensive Stance,926;1031
+7,2,spell,2458,Berserker Stance,927;1031
 7,2,pot,13455,Greater Stoneshield Potion,208
 7,2,spell,2565,Shield Block,
 7,2,spell,23925,Shield Slam,
