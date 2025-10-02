@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1759367275634,
+  "timestamp": 1759441879989,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main-S7MFI4KT.js",
+        "/main-A7Y4AGQM.js",
         "/manifest.webmanifest",
         "/polyfills-B6TNHZQ6.js",
         "/scripts-EW5EEZPI.js",
@@ -76,6 +76,7 @@
         "/assets/icons/ability_racial_avatar.jpg",
         "/assets/icons/ability_racial_bearform.jpg",
         "/assets/icons/ability_racial_bloodrage.jpg",
+        "/assets/icons/ability_racial_cannibalize.jpg",
         "/assets/icons/ability_racial_shadowmeld.jpg",
         "/assets/icons/ability_rogue_ambush.jpg",
         "/assets/icons/ability_rogue_dualweild.jpg",
@@ -4498,6 +4499,7 @@
     "/assets/icons/ability_racial_avatar.jpg": "c697aa821672eb640f6ee9a4d84f7cd807e3fd43",
     "/assets/icons/ability_racial_bearform.jpg": "0892327efbb12c36a4aa7b8dd52d37e63211726c",
     "/assets/icons/ability_racial_bloodrage.jpg": "5d343af489bbc1336ebca2e2819b0d2d4bc521ef",
+    "/assets/icons/ability_racial_cannibalize.jpg": "df21392348924ea7b4bfa3695054a71197350135",
     "/assets/icons/ability_racial_shadowmeld.jpg": "d0dab6d819e4908d4b7033702227f87aceb7bd31",
     "/assets/icons/ability_rogue_ambush.jpg": "df0b4e998db9c3090b4c8e82c8b68ac8b56ccc46",
     "/assets/icons/ability_rogue_dualweild.jpg": "df5f916e01015608ff92370283840be441253054",
@@ -8868,8 +8870,8 @@
     "/assets/modelviewer/classic/textures/219547.webp": "a6991435e36121f361a06e0101a32f66bad733f0",
     "/assets/modelviewer/classic/textures/775194.webp": "7e9265de8a97daa2ecfc9be6ba9d7bcba59fdeb2",
     "/favicon.ico": "615db2b38a751d12f97250ef89a13610e3c29fd3",
-    "/index.html": "4e466784e922721175854f3040f74bbe2c0c314b",
-    "/main-S7MFI4KT.js": "dcbd4fde18bebe474b8dca0cde2f66081c3ec088",
+    "/index.html": "d207198778c721f3c15948de7fcb737b5d2ffb4f",
+    "/main-A7Y4AGQM.js": "6f3a28aaaed518bb26e18cf462620a75e587924c",
     "/manifest.webmanifest": "ceeb2bc4a3aec98d9feeb8856af0a4d1617e1f14",
     "/polyfills-B6TNHZQ6.js": "bf76ac291d7f51c1139b7edcf86b359a30c08c64",
     "/scripts-EW5EEZPI.js": "e4773cafb25219021412e9b08b0767cc90bba6a2",

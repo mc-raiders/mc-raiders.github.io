@@ -99,18 +99,27 @@ class,spec,type,actionId,name,conditions
 4,2,spell,11713,Curse of Agony,118;1031
 4,2,spell,18871,Shadowburn,
 4,2,spell,25307,Shadow Bolt,
+5,0,spell,14325,Hunter’s Mark,1031
 5,0,pot,13446,Major Healing Potion,208
 5,0,spell,20904,Aimed Shot,
 5,0,spell,25294,Multi-Shot,
 5,0,spell,25295,Serpent Sting,1031
+5,0,spell,17261,Bite,
+5,0,spell,3009,Claw,1217
+5,1,spell,14325,Hunter’s Mark,1031
 5,1,pot,13446,Major Healing Potion,208
 5,1,spell,20904,Aimed Shot,
 5,1,spell,25294,Multi-Shot,
 5,1,spell,25295,Serpent Sting,1031
+5,1,spell,17261,Bite,
+5,1,spell,3009,Claw,1217
+5,2,spell,14325,Hunter’s Mark,1031
 5,2,pot,13446,Major Healing Potion,208
 5,2,spell,20904,Aimed Shot,
 5,2,spell,25294,Multi-Shot,
 5,2,spell,25295,Serpent Sting,1031
+5,2,spell,17261,Bite,
+5,2,spell,3009,Claw,1217
 6,0,pot,13446,Major Healing Potion,208
 6,0,spell,6774,Slice and Dice,823;1032
 6,0,spell,11275,Rupture,824;119;1031
@@ -153,6 +162,8 @@ class,spec,type,actionId,name,conditions
 7,2,spell,71,Defensive Stance,926;1031
 7,2,spell,2458,Berserker Stance,927;1031
 7,2,pot,13455,Greater Stoneshield Potion,208
+7,2,spell,12975,Last Stand,208
+7,2,spell,871,Shield Wall,209
 7,2,spell,2687,Bloodrage,708;216
 7,2,spell,11597,Sunder Armor,1145
 7,2,spell,11597,Sunder Armor,1033
