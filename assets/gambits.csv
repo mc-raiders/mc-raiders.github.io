@@ -2,12 +2,13 @@ class,spec,type,actionId,name,conditions
 0,0,pot,13444,Major Mana Potion,308
 0,0,spell,29166,Innervate,309
 0,0,attack,6063,Attack:On,310
-0,0,spell,9858,Regrowth,401
-0,0,spell,25299,Rejuvenation,402
+0,0,spell,9858,Regrowth,403;1031
+0,0,spell,25299,Rejuvenation,402;1031
 0,0,spell,25297,Healing Touch,405
 0,0,spell,5188,Lesser HT,401
 0,1,spell,9634,Dire Bear Form,926;1031
 0,1,spell,768,Cat Form,927;1031
+0,1,spell,5229,Enrage,708;216
 0,1,spell,22896,Frenzied Regeneration,206
 0,1,pot,13446,Major Healing Potion,208
 0,1,spell,9908,Swipe,717
@@ -18,8 +19,8 @@ class,spec,type,actionId,name,conditions
 0,2,pot,13444,Major Mana Potion,308
 0,2,spell,29166,Innervate,309
 0,2,attack,6063,Attack:On,310
-0,2,spell,9858,Regrowth,501
-0,2,spell,25299,Rejuvenation,502
+0,2,spell,9858,Regrowth,501;1031
+0,2,spell,25299,Rejuvenation,502;1031
 0,2,spell,18562,Swiftmend,505
 0,2,spell,25297,Healing Touch,505
 0,2,spell,5188,Lesser HT,501
@@ -27,14 +28,14 @@ class,spec,type,actionId,name,conditions
 1,0,spell,14751,Inner Focus,309
 1,0,spell,5019,Shoot,310
 1,0,spell,10901,Power Word: Shield,401
-1,0,spell,25315,Renew,502
+1,0,spell,25315,Renew,502;1031
 1,0,spell,25314,Greater Heal,505
 1,0,spell,6064,Heal,501
 1,1,pot,13444,Major Mana Potion,308
 1,1,spell,14751,Inner Focus,309
 1,1,spell,5019,Shoot,310
 1,1,spell,10901,Power Word: Shield,401
-1,1,spell,25315,Renew,402
+1,1,spell,25315,Renew,402;1031
 1,1,spell,25314,Greater Heal,405
 1,1,spell,6064,Heal,401
 1,2,pot,13444,Major Mana Potion,308
@@ -134,21 +135,28 @@ class,spec,type,actionId,name,conditions
 6,2,spell,11294,Sinister Strike,615
 7,0,spell,2458,Berserker Stance,1031
 7,0,pot,13446,Major Healing Potion,208
+7,0,spell,2687,Bloodrage,708;216
 7,0,spell,20662,Execute,109
+7,0,spell,11597,Sunder Armor,1145
 7,0,spell,23894,Bloodthirst,
 7,0,spell,1680,Whirlwind,
 7,0,spell,11605,Slam,
-7,0,spell,25286,Heroic Strike,
+7,0,spell,25286,Heroic Strike,715
 7,0,spell,2458,Berserker Stance,1031
 7,1,pot,13446,Major Healing Potion,208
+7,1,spell,2687,Bloodrage,708;216
 7,1,spell,20662,Execute,109
+7,1,spell,11597,Sunder Armor,1145
 7,1,spell,23894,Bloodthirst,
 7,1,spell,1680,Whirlwind,
-7,1,spell,25286,Heroic Strike,
+7,1,spell,25286,Heroic Strike,715
 7,2,spell,71,Defensive Stance,926;1031
 7,2,spell,2458,Berserker Stance,927;1031
 7,2,pot,13455,Greater Stoneshield Potion,208
+7,2,spell,2687,Bloodrage,708;216
+7,2,spell,11597,Sunder Armor,1145
+7,2,spell,11597,Sunder Armor,1033
 7,2,spell,2565,Shield Block,
 7,2,spell,23925,Shield Slam,
 7,2,spell,25288,Revenge,
-7,2,spell,25286,Heroic Strike,
+7,2,spell,25286,Heroic Strike,715
