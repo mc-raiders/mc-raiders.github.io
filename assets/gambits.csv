@@ -78,25 +78,28 @@ class,spec,type,actionId,name,conditions
 3,2,spell,5019,Shoot,310
 3,2,spell,25304,Frostbolt,
 4,0,pot,13446,Major Healing Potion,208
-4,0,spell,11689,Life Tap,308
 4,0,spell,25311,Corruption,119;1031
 4,0,spell,11713,Curse of Agony,118;1031
 4,0,spell,18881,Siphon Life,119;1031
+4,0,spell,11700,Drain Life,209
+4,0,spell,11689,Life Tap,308
 4,0,spell,25309,Immolate,120;1031
 4,0,spell,18871,Shadowburn,110
 4,0,spell,25307,Shadow Bolt,
 4,1,pot,13446,Major Healing Potion,208
-4,1,spell,11689,Life Tap,308
 4,1,spell,25311,Corruption,119;1031
-4,1,spell,25309,Immolate,120;1031
 4,1,spell,11713,Curse of Agony,118;1031
+4,1,spell,11700,Drain Life,209
+4,1,spell,11689,Life Tap,308
+4,1,spell,25309,Immolate,120;1031
 4,1,spell,18871,Shadowburn,
 4,1,spell,25307,Shadow Bolt,
 4,2,pot,13446,Major Healing Potion,208
-4,2,spell,11689,Life Tap,308
 4,2,spell,25311,Corruption,119;1031
-4,2,spell,25309,Immolate,120;1031
 4,2,spell,11713,Curse of Agony,118;1031
+4,2,spell,11700,Drain Life,209
+4,2,spell,11689,Life Tap,308
+4,2,spell,25309,Immolate,120;1031
 4,2,spell,18871,Shadowburn,
 4,2,spell,25307,Shadow Bolt,
 5,0,spell,14325,Hunter’s Mark,1031
